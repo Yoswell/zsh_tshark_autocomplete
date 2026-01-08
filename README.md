@@ -58,9 +58,9 @@ plugins=(
 )
 
 if [ -f  ~/.oh-my-zsh/custom/plugins/zsh_tshark_autocomplete/zsh_tshark_autocomplete.plugin.zsh ]; then
-	source ~/.oh-my-zsh/custom/plugins/zsh_tshark_autocomplete/zsh_tshark_autocomplete.plugin.zsh
-	bindkey $key[Up] up-line-or-history
-	bindkey $key[Down] down-line-or-history
+  source ~/.oh-my-zsh/custom/plugins/zsh_tshark_autocomplete/zsh_tshark_autocomplete.plugin.zsh
+  bindkey $key[Up] up-line-or-history
+  bindkey $key[Down] down-line-or-history
 fi
 
 source $ZSH/oh-my-zsh.sh
@@ -159,10 +159,6 @@ Both options share the same hierarchical resolution logic and field database.
 
 -----
 
-### License
+### Author & License
 
 This project is licensed under the terms specified in the [LICENSE](LICENSE) file.
-
------
-
-**Made with love by VIsh0k**
