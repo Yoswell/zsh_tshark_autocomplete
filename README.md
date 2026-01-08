@@ -52,7 +52,7 @@ Add the plugin to your plugin list:
 
 ```bash
 plugins=(
-	zsh_tshark_autocomplete
+  zsh_tshark_autocomplete
 )
 
 if [ -f  ~/.oh-my-zsh/custom/plugins/zsh_tshark_autocomplete/zsh_tshark_autocomplete.plugin.zsh ]; then
@@ -99,7 +99,9 @@ The completion engine always suggests **only the next valid level**, ensuring cl
 
 ```bash
 # Press [TAB] after typing 'http.'
-VIsh0k@VIsh0k:~/Desktop$ tshark -r capture.pcap -T fields -Y 'http. [TAB]'
+VIsh0k@VIsh0k:~/Desktop$ tshark -r capture.pcap -T fields -Y 'http.'
+
+# You will see the following completions
 http.accept                    http.content_range             http.path_sub_segment
 http.accept_encoding           http.content_type              http.prev_request_in
 http.accept_language           http.cookie                    http.prev_response_in
@@ -135,7 +137,7 @@ The tool is especially useful when dealing with complex protocols where field na
 
 ```bash
 # Press [TAB] after typing 'http.request'
--Y 'http.request. [TAB]'
+VIsh0k@VIsh0k:~/Desktop$ tshark -r capture.pcap -T fields -Y 'http.request. [TAB]'
 
 # You will see the following completions
 http.request.host              http.request.method              http.request.uri.path
@@ -146,7 +148,7 @@ http.request.host              http.request.method              http.request.uri
 
 ```bash
 # Press [TAB] after typing 'http.response.'
--e http.response. [TAB]
+VIsh0k@VIsh0k:~/Desktop$ tshark -r capture.pcap -T fields -Y 'http' -e http.response.
 
 # You will see the following completions
 http.response.code             http.response.content_type       http.response.headers
