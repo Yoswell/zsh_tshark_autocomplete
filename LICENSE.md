@@ -1,3 +1,5 @@
+MIT License
+
 Copyright (c) 2026-2026 VIsh0k
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

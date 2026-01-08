@@ -1,6 +1,6 @@
 ### TShark Advanced Zsh Autocomplete – Hierarchical Display Filter Completion
 
-Specialized command-line productivity tool that brings Wireshark-level field awareness to TShark display filters through advanced Zsh autocompletion
+Specialized command-line productivity tool that brings Wireshark-level field awareness to TShark display filters through advanced Zsh autocompletion.
 
 * TShark display filter automation
 * Hierarchical protocol and field resolution
