@@ -1,0 +1,15 @@
+oxid.addtoset
+oxid.authn_hint
+oxid.bindings
+oxid.delfromset
+oxid.ipid
+oxid.oid
+oxid.opnum
+oxid.oxid
+oxid.ping_backoff_factor
+oxid.protseqs
+oxid.requested_protseqs
+oxid.seqnum
+oxid.setid
+oxid.unknown1
+oxid.unknown2

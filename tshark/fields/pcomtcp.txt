@@ -1,0 +1,4 @@
+pcomtcp.length
+pcomtcp.protocol
+pcomtcp.reserved
+pcomtcp.trans_id

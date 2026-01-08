@@ -1,0 +1,7 @@
+tsp.hopcnt
+tsp.name
+tsp.sec
+tsp.sequence
+tsp.type
+tsp.usec
+tsp.version

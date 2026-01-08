@@ -1,0 +1,11 @@
+ipmi_session.authcode
+ipmi_session.authtype
+ipmi_session.id
+ipmi_session.msg.len
+ipmi_session.oem.iana
+ipmi_session.oem.payloadid
+ipmi_session.payloadtype
+ipmi_session.payloadtype.auth
+ipmi_session.payloadtype.enc
+ipmi_session.sequence
+ipmi_session.trailer

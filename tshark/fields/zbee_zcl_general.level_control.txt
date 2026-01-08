@@ -1,0 +1,15 @@
+zbee_zcl_general.level_control.attr.current_level
+zbee_zcl_general.level_control.attr_id
+zbee_zcl_general.level_control.attr.on_level
+zbee_zcl_general.level_control.attr.onoff_transmit_time
+zbee_zcl_general.level_control.attr.remaining_time
+zbee_zcl_general.level_control.attr.startup_level
+zbee_zcl_general.level_control.cmd.srv_rx.id
+zbee_zcl_general.level_control.level
+zbee_zcl_general.level_control.move_mode
+zbee_zcl_general.level_control.options_mask
+zbee_zcl_general.level_control.options_override
+zbee_zcl_general.level_control.rate
+zbee_zcl_general.level_control.step_mode
+zbee_zcl_general.level_control.step_size
+zbee_zcl_general.level_control.transit_time

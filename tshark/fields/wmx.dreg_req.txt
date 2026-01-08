@@ -1,0 +1,4 @@
+wmx.dreg_req.action
+wmx.dreg_req.action
+wmx.dreg_req.action_reserved
+wmx.dreg_req.action_reserved

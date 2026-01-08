@@ -1,0 +1,11 @@
+zbee_zcl_meas_sensing.elecmes.attr_id
+zbee_zcl_meas_sensing.elecmes.cmd.srv_rx.id
+zbee_zcl_meas_sensing.elecmes.cmd.srv_tx.id
+zbee_zcl_meas_sensing.elecmes.intervals
+zbee_zcl_meas_sensing.elecmes.max_number_of_intervals
+zbee_zcl_meas_sensing.elecmes.number_of_intervals
+zbee_zcl_meas_sensing.elecmes.number_of_intervals_delivered
+zbee_zcl_meas_sensing.elecmes.profile_count
+zbee_zcl_meas_sensing.elecmes.profile_interval_period
+zbee_zcl_meas_sensing.elecmes.start_time
+zbee_zcl_meas_sensing.elecmes.status

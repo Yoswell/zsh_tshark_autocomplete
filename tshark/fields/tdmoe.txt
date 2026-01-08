@@ -1,0 +1,8 @@
+tdmoe.channels
+tdmoe.counter
+tdmoe.flags
+tdmoe.samples
+tdmoe.sig_bits
+tdmoe.sig_bits_present
+tdmoe.subaddress
+tdmoe.yellowalarm

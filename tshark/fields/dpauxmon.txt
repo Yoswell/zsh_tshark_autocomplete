@@ -1,0 +1,7 @@
+dpauxmon.hpd
+dpauxmon.in0
+dpauxmon.in1
+dpauxmon.in2
+dpauxmon.inputs
+dpauxmon.origin
+dpauxmon.packet_type

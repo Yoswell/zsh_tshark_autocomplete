@@ -1,0 +1,12 @@
+tc_nv.count
+tc_nv.cycleindex
+tc_nv.data
+tc_nv.hash
+tc_nv.header
+tc_nv.id
+tc_nv.length
+tc_nv.publisher
+tc_nv.quality
+tc_nv.summary
+tc_nv.varheader
+tc_nv.variable

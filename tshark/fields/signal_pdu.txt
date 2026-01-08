@@ -1,0 +1,5 @@
+signal_pdu.name
+signal_pdu.payload.config_error
+signal_pdu.payload.expert_truncated
+signal_pdu.payload.unaligned_data
+signal_pdu.payload.unparsed

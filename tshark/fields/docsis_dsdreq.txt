@@ -1,0 +1,5 @@
+docsis_dsdreq.rsvd
+docsis_dsdreq.rsvd
+docsis_dsdreq.sfid
+docsis_dsdreq.sfid
+docsis_dsdreq.tranid

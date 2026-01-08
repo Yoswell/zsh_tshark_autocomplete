@@ -1,0 +1,16 @@
+xml.attribute
+xml.cdata
+xml.cdatasection
+xml.closing_unopened_tag
+xml.closing_unopened_xmpli_tag
+xml.comment
+xml.doctype
+xml.dtdtag
+xml.tag
+xml.unknown
+xml.unrecognized_text
+xml.xmlpi
+xml.xmlpi.xml
+xml.xmlpi.xml.encoding
+xml.xmlpi.xml.standalone
+xml.xmlpi.xml.version

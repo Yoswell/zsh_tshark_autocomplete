@@ -1,0 +1,7 @@
+riff.chunk
+riff.chunk.data
+riff.chunk.id
+riff.chunk.size
+riff.file.size
+riff.file.type
+riff.magic

@@ -1,0 +1,6 @@
+sonmp.backplane
+sonmp.chassis
+sonmp.ipaddress
+sonmp.nmmstate
+sonmp.numberoflinks
+sonmp.segmentident

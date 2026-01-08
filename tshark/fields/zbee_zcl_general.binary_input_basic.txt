@@ -1,0 +1,8 @@
+zbee_zcl_general.binary_input_basic.attr_id
+zbee_zcl_general.binary_input_basic.attr.polarity
+zbee_zcl_general.binary_input_basic.attr.reliability
+zbee_zcl_general.binary_input_basic.attr.status
+zbee_zcl_general.binary_input_basic.attr.status.fault
+zbee_zcl_general.binary_input_basic.attr.status.in_alarm
+zbee_zcl_general.binary_input_basic.attr.status.out_of_service
+zbee_zcl_general.binary_input_basic.attr.status.overridden

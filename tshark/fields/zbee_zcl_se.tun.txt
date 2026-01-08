@@ -1,0 +1,17 @@
+zbee_zcl_se.tun.attr.attr_reporting_status
+zbee_zcl_se.tun.attr.close_tunnel
+zbee_zcl_se.tun.attr_id
+zbee_zcl_se.tun.cmd.srv_rx.id
+zbee_zcl_se.tun.cmd.srv_tx.id
+zbee_zcl_se.tun.flow_control_supported
+zbee_zcl_se.tun.manufacturer_code
+zbee_zcl_se.tun.max_in_transfer_size
+zbee_zcl_se.tun.octets_left
+zbee_zcl_se.tun.protocol_count
+zbee_zcl_se.tun.protocol_id
+zbee_zcl_se.tun.protocol_list_complete
+zbee_zcl_se.tun.protocol_offset
+zbee_zcl_se.tun.transfer_data
+zbee_zcl_se.tun.transfer_data_status
+zbee_zcl_se.tun.transfer_status
+zbee_zcl_se.tun.tunnel_id

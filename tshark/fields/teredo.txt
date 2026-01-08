@@ -1,0 +1,10 @@
+teredo.auth
+teredo.auth.aulen
+teredo.auth.conf
+teredo.auth.id
+teredo.auth.idlen
+teredo.auth.nonce
+teredo.auth.value
+teredo.orig
+teredo.orig.addr
+teredo.orig.port

@@ -1,0 +1,4 @@
+docsis_intrngreq.downchid
+docsis_intrngreq.sid
+docsis_intrngreq.sid
+docsis_intrngreq.upchid

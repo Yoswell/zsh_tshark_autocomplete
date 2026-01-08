@@ -1,0 +1,9 @@
+ziop.compressor_id
+ziop.flags
+ziop.giop_version_major
+ziop.giop_version_minor
+ziop.magic
+ziop.message_size
+ziop.message_type
+ziop.original_length
+ziop.version_not_supported

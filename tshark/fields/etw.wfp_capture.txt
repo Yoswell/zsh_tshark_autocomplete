@@ -1,0 +1,10 @@
+etw.wfp_capture.callout
+etw.wfp_capture.callout_error_message
+etw.wfp_capture.driver_error_message
+etw.wfp_capture.driver_name
+etw.wfp_capture.event_id
+etw.wfp_capture.filter_id
+etw.wfp_capture.filter_weight
+etw.wfp_capture.major_version
+etw.wfp_capture.minor_version
+etw.wfp_capture.nt_status

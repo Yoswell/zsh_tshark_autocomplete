@@ -1,0 +1,4 @@
+aim_location.buddyname
+aim_location.buddynamelen
+aim_location.snac.request_user_info.infotype
+aim_location.userinfo.warninglevel

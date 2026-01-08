@@ -1,0 +1,15 @@
+netmon_802_11.channel
+netmon_802_11.datarate
+netmon_802_11.flags
+netmon_802_11.frequency
+netmon_802_11.length
+netmon_802_11.op_mode
+netmon_802_11.op_mode.ap
+netmon_802_11.op_mode.mon
+netmon_802_11.op_mode.on
+netmon_802_11.op_mode.sta
+netmon_802_11.op_mode.sta_ext
+netmon_802_11.phy_type
+netmon_802_11.rssi
+netmon_802_11.timestamp
+netmon_802_11.version

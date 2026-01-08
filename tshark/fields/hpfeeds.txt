@@ -1,0 +1,13 @@
+hpfeeds.channel
+hpfeeds.channel_len
+hpfeeds.errmsg
+hpfeeds.ident
+hpfeeds.ident_len
+hpfeeds.msglen
+hpfeeds.nonce
+hpfeeds.opcode
+hpfeeds.opcode.unknown
+hpfeeds.payload
+hpfeeds.secret
+hpfeeds.server
+hpfeeds.server_len

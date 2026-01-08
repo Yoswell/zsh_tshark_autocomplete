@@ -1,0 +1,13 @@
+carp.adver_int
+carp.advskew
+carp.authlen
+carp.bad_checksum
+carp.checksum
+carp.checksum.status
+carp.counter
+carp.demotion
+carp.hmac
+carp.type
+carp.typever
+carp.version
+carp.vhid

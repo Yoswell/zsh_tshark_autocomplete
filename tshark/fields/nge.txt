@@ -1,0 +1,14 @@
+nge.ap_name
+nge.ensemble_name
+nge.firmware_name
+nge.firmware_version
+nge.ip
+nge.mac
+nge.region_name
+nge.sequence
+nge.tlv_len
+nge.unknown
+nge.unknown.int32
+nge.uptime
+nge.uuid
+nge.version

@@ -1,0 +1,6 @@
+cmd.length
+cmd.options
+cmd.sgt
+cmd.trailer
+cmd.type
+cmd.version

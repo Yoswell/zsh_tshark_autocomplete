@@ -1,0 +1,3 @@
+docsis_dbcrsp.conf_code
+docsis_dbcrsp.conf_code
+docsis_dbcrsp.tranid

@@ -1,0 +1,14 @@
+xot.length
+xot.pvc.init_itf_name
+xot.pvc.init_itf_name_len
+xot.pvc.init_lcn
+xot.pvc.resp_itf_name
+xot.pvc.resp_itf_name_len
+xot.pvc.resp_lcn
+xot.pvc.send_inc_pkt_size
+xot.pvc.send_inc_window
+xot.pvc.send_out_pkt_size
+xot.pvc.send_out_window
+xot.pvc.status
+xot.pvc.version
+xot.version

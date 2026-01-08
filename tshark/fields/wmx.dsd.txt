@@ -1,0 +1,10 @@
+wmx.dsd.confirmation_code
+wmx.dsd.confirmation_code
+wmx.dsd.invalid_tlv
+wmx.dsd.invalid_tlv
+wmx.dsd.service_flow_id
+wmx.dsd.service_flow_id
+wmx.dsd.transaction_id
+wmx.dsd.transaction_id
+wmx.dsd.unknown_type
+wmx.dsd.unknown_type

@@ -1,0 +1,5 @@
+adp.id
+adp.mac
+adp.switch
+adp.type
+adp.version

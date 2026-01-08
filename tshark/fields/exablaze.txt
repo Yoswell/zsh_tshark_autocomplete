@@ -1,0 +1,6 @@
+exablaze.device
+exablaze.original_fcs
+exablaze.port
+exablaze.timestamp
+exablaze.timestamp.fractional_seconds
+exablaze.timestamp.seconds

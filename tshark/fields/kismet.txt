@@ -1,0 +1,10 @@
+kismet.build_revision
+kismet.extended_version_string
+kismet.request
+kismet.response
+kismet.server_name
+kismet.start_time
+kismet.time
+kismet.time.invalid
+kismet.unknown_field
+kismet.version

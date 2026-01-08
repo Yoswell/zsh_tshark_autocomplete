@@ -1,0 +1,15 @@
+usbms.dCBWCBLength
+usbms.dCBWDataTransferLength
+usbms.dCBWFlags
+usbms.dCBWLUN
+usbms.dCBWSignature
+usbms.dCBWTag
+usbms.dCBWTarget
+usbms.dCSWDataResidue
+usbms.dCSWSignature
+usbms.dCSWStatus
+usbms.setup.bRequest
+usbms.setup.maxlun
+usbms.setup.wIndex
+usbms.setup.wLength
+usbms.setup.wValue

@@ -1,0 +1,10 @@
+packetlogger.info
+packetlogger.syslog
+packetlogger.syslog.category
+packetlogger.syslog.message
+packetlogger.syslog.message_type
+packetlogger.syslog.process
+packetlogger.syslog.process_id
+packetlogger.syslog.sender
+packetlogger.syslog.subsystem
+packetlogger.type

@@ -1,0 +1,5 @@
+mgmt.opnum
+mgmt.princ_name
+mgmt.princ_size
+mgmt.proto
+mgmt.rc

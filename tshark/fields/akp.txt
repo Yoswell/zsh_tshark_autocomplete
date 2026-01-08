@@ -1,0 +1,12 @@
+akp.AsymmetricKeyPackage
+akp.Attribute_element
+akp.attributes
+akp.encryptedData
+akp.EncryptedPrivateKeyInfo_element
+akp.encryptionAlgorithm_element
+akp.OneAsymmetricKey_element
+akp.privateKey
+akp.privateKeyAlgorithm_element
+akp.PrivateKeyInfo_element
+akp.publicKey
+akp.version

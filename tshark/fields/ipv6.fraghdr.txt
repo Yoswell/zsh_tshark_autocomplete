@@ -1,0 +1,12 @@
+ipv6.fraghdr.ident
+ipv6.fraghdr.ident
+ipv6.fraghdr.more
+ipv6.fraghdr.more
+ipv6.fraghdr.nxt
+ipv6.fraghdr.nxt
+ipv6.fraghdr.offset
+ipv6.fraghdr.offset
+ipv6.fraghdr.reserved_bits
+ipv6.fraghdr.reserved_bits
+ipv6.fraghdr.reserved_octet
+ipv6.fraghdr.reserved_octet

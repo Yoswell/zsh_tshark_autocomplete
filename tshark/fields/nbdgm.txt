@@ -1,0 +1,13 @@
+nbdgm.destination_name
+nbdgm.dgram_id
+nbdgm.dgram_len
+nbdgm.error_code
+nbdgm.first
+nbdgm.flags
+nbdgm.next
+nbdgm.node_type
+nbdgm.pkt_offset
+nbdgm.source_name
+nbdgm.src.ip
+nbdgm.src.port
+nbdgm.type

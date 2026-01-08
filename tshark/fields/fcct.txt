@@ -1,0 +1,11 @@
+fcct.ext_authblk
+fcct.ext_reqnm
+fcct.ext_said
+fcct.ext_tid
+fcct.ext_tstamp
+fcct.gssubtype
+fcct.gstype
+fcct.in_id
+fcct.options
+fcct.revision
+fcct.server

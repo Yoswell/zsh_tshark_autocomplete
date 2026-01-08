@@ -1,0 +1,8 @@
+file-dlt.data
+file-dlt.ecu_id
+file-dlt.header_type
+file-dlt.length
+file-dlt.magic
+file-dlt.msg_counter
+file-dlt.timestamp_s
+file-dlt.timestamp_us

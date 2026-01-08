@@ -1,0 +1,10 @@
+docsis_bintrngreq.capflags
+docsis_bintrngreq.capflags
+docsis_bintrngreq.capflags.encrypt
+docsis_bintrngreq.capflags.encrypt
+docsis_bintrngreq.capflags.frag
+docsis_bintrngreq.capflags.frag
+docsis_bintrngreq.downchid
+docsis_bintrngreq.mddsgid
+docsis_bintrngreq.mddsgid
+docsis_bintrngreq.upchid

@@ -1,0 +1,11 @@
+lsc.current_npt
+lsc.mode
+lsc.op_code
+lsc.scale_denum
+lsc.scale_num
+lsc.start_npt
+lsc.status_code
+lsc.stop_npt
+lsc.stream_handle
+lsc.trans_id
+lsc.version

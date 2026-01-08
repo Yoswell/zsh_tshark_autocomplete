@@ -1,0 +1,5 @@
+mpeg_ca.cur_next_ind
+mpeg_ca.last_sect_num
+mpeg_ca.reserved
+mpeg_ca.sect_num
+mpeg_ca.version

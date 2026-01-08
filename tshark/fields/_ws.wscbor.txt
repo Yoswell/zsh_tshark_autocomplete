@@ -1,0 +1,5 @@
+_ws.wscbor.array_wrong_size
+_ws.wscbor.cbor_invalid
+_ws.wscbor.cbor_overflow
+_ws.wscbor.cbor_wrong_type
+_ws.wscbor.indef_string

@@ -1,0 +1,13 @@
+soupbintcp.message
+soupbintcp.next_seq_num
+soupbintcp.next_seq_num.invalid
+soupbintcp.packet_length
+soupbintcp.packet_type
+soupbintcp.password
+soupbintcp.reject_code
+soupbintcp.req_seq_num
+soupbintcp.req_seq_num.invalid
+soupbintcp.seq_num
+soupbintcp.session
+soupbintcp.text
+soupbintcp.username

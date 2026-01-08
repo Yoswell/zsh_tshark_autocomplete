@@ -1,0 +1,14 @@
+logcat.euid
+logcat.expert.invalid_payload_length
+logcat.header_size
+logcat.length
+logcat.log
+logcat.logger_version
+logcat.padding
+logcat.pid
+logcat.priority
+logcat.tag
+logcat.tid
+logcat.timestamp
+logcat.timestamp.nanoseconds
+logcat.timestamp.seconds

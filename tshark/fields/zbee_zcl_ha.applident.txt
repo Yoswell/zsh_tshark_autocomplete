@@ -1,0 +1,7 @@
+zbee_zcl_ha.applident.attr.brand.id
+zbee_zcl_ha.applident.attr.ceced_spec_ver
+zbee_zcl_ha.applident.attr.company.id
+zbee_zcl_ha.applident.attr_id
+zbee_zcl_ha.applident.attr.prod_type.id
+zbee_zcl_ha.applident.attr.prod_type.name
+zbee_zcl_ha.applident.string.len

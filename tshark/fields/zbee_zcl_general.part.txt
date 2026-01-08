@@ -1,0 +1,14 @@
+zbee_zcl_general.part.ack_opt.reserved
+zbee_zcl_general.part.attr_id
+zbee_zcl_general.part.cmd.srv_rx.id
+zbee_zcl_general.part.cmd.srv_tx.id
+zbee_zcl_general.part.first_frame_id
+zbee_zcl_general.part.nack_id
+zbee_zcl_general.part.opt
+zbee_zcl_general.part.opt.first_block
+zbee_zcl_general.part.opt.indic_len
+zbee_zcl_general.part.opt.res
+zbee_zcl_general.part.part_cluster_id
+zbee_zcl_general.part.part_frame
+zbee_zcl_general.part.part_frame_length
+zbee_zcl_general.part.part_indicator

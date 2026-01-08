@@ -1,0 +1,8 @@
+e100.bytes_cap
+e100.bytes_orig
+e100.ip
+e100.mon_pkt_id
+e100.pkt_ts
+e100.port_recv
+e100.seq_num
+e100.version

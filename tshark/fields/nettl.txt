@@ -1,0 +1,5 @@
+nettl.devid
+nettl.kind
+nettl.pid
+nettl.subsys
+nettl.uid

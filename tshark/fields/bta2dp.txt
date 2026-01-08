@@ -1,0 +1,12 @@
+bta2dp.acp_seid
+bta2dp.codec
+bta2dp.codec.vendor.codec_id
+bta2dp.codec.vendor.vendor_id
+bta2dp.content_protection
+bta2dp.content_protection_header.scms_t.cp_bit
+bta2dp.content_protection_header.scms_t.l_bit
+bta2dp.content_protection_header.scms_t.reserved
+bta2dp.int_seid
+bta2dp.stream_end_in_frame
+bta2dp.stream_number
+bta2dp.stream_start_in_frame

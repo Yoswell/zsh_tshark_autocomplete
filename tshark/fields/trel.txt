@@ -1,0 +1,9 @@
+trel.ack
+trel.channel
+trel.destination_addr
+trel.packetno
+trel.panID
+trel.rsv
+trel.source_addr
+trel.type
+trel.ver

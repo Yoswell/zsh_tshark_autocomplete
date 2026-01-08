@@ -1,0 +1,8 @@
+ns.cert.exts.CertType.object.signing
+ns.cert.exts.CertType.object.signing.ca
+ns.cert.exts.CertType.reserved.for.future.use
+ns.cert.exts.CertType.smime
+ns.cert.exts.CertType.smime.ca
+ns.cert.exts.CertType.ssl.ca
+ns.cert.exts.CertType.ssl.client
+ns.cert.exts.CertType.ssl.server

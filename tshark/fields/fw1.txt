@@ -1,0 +1,6 @@
+fw1.chain
+fw1.direction
+fw1.interface
+fw1.trailer
+fw1.type
+fw1.uuid

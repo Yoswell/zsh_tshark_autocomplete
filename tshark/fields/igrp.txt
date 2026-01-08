@@ -1,0 +1,16 @@
+igrp.as
+igrp.bandwidth
+igrp.checksum
+igrp.command
+igrp.delay
+igrp.exterior_routes
+igrp.hop_count
+igrp.interior_routes
+igrp.load
+igrp.mtu
+igrp.network
+igrp.reliability
+igrp.system_routes
+igrp.update
+igrp.version
+igrp.version.invalid

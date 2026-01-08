@@ -1,0 +1,9 @@
+fcoe.crc
+fcoe.crc.bad
+fcoe.crc_bad
+fcoe.crc_good
+fcoe.crc.status
+fcoe.eof
+fcoe.len
+fcoe.sof
+fcoe.ver

@@ -1,0 +1,15 @@
+psample.attr_type
+psample.cmd
+psample.group_refcount
+psample.group_seq_num
+psample.iifindex
+psample.latency
+psample.oifindex
+psample.origsize
+psample.out_tc
+psample.out_tc_occ
+psample.proto
+psample.sample_group
+psample.sample_rate
+psample.timestamp
+psample.tunnel

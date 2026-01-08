@@ -1,0 +1,9 @@
+mpeg_pat.cur_next_ind
+mpeg_pat.last_sect_num
+mpeg_pat.prog_map_pid
+mpeg_pat.prog_num
+mpeg_pat.prog_reserved
+mpeg_pat.reserved
+mpeg_pat.sect_num
+mpeg_pat.tsid
+mpeg_pat.version

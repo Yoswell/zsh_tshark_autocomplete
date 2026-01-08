@@ -1,0 +1,13 @@
+ptpip.connection
+ptpip.datalen
+ptpip.eventcode
+ptpip.guid
+ptpip.len
+ptpip.name
+ptpip.opcode
+ptpip.opcode.param.sessionid
+ptpip.phaseinfo
+ptpip.pktType
+ptpip.respcode
+ptpip.transactionID
+ptpip.version

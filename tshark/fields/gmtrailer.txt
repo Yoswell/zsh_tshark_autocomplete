@@ -1,0 +1,3 @@
+gmtrailer.crc
+gmtrailer.portid
+gmtrailer.timestamp

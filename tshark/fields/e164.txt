@@ -1,0 +1,8 @@
+e164.called_party_number.digits
+e164.calling_party_number.digits
+e164.country_code
+e164.country_code.non_decimal
+e164.identification_code
+e164.identification_code.non_decimal
+e164.isdn
+e164.msisdn

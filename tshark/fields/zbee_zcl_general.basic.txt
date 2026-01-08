@@ -1,0 +1,12 @@
+zbee_zcl_general.basic.attr.alarm_mask
+zbee_zcl_general.basic.attr.alarm_mask.gen_hw_fault
+zbee_zcl_general.basic.attr.alarm_mask.gen_sw_fault
+zbee_zcl_general.basic.attr.alarm_mask.reserved
+zbee_zcl_general.basic.attr.dev_en
+zbee_zcl_general.basic.attr.dis_loc_cfg
+zbee_zcl_general.basic.attr.dis_loc_cfg.dev_cfg
+zbee_zcl_general.basic.attr.dis_loc_cfg.reserved
+zbee_zcl_general.basic.attr.dis_loc_cfg.reset
+zbee_zcl_general.basic.attr_id
+zbee_zcl_general.basic.attr.pwr_src
+zbee_zcl_general.basic.cmd.srv_rx.id

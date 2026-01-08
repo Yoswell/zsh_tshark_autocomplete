@@ -1,0 +1,15 @@
+dvb_sdt.cur_next_ind
+dvb_sdt.last_sect_num
+dvb_sdt.original_nid
+dvb_sdt.reserved1
+dvb_sdt.reserved2
+dvb_sdt.sect_num
+dvb_sdt.svc.descr_loop_len
+dvb_sdt.svc.eit_present_following_flag
+dvb_sdt.svc.eit_schedule_flag
+dvb_sdt.svc.free_ca_mode
+dvb_sdt.svc.id
+dvb_sdt.svc.reserved
+dvb_sdt.svc.running_status
+dvb_sdt.tsid
+dvb_sdt.version

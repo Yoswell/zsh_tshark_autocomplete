@@ -1,0 +1,3 @@
+docsis_bpkmreq.code
+docsis_bpkmreq.ident
+docsis_bpkmreq.length

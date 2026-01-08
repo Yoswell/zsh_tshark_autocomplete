@@ -1,0 +1,6 @@
+hyperscsi.cmd
+hyperscsi.fragno
+hyperscsi.lastfrag
+hyperscsi.reserved
+hyperscsi.tagno
+hyperscsi.version

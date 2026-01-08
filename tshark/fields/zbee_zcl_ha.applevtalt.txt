@@ -1,0 +1,11 @@
+zbee_zcl_ha.applevtalt.alert_id
+zbee_zcl_ha.applevtalt.category
+zbee_zcl_ha.applevtalt.cmd.srv_rx.id
+zbee_zcl_ha.applevtalt.cmd.srv_tx.id
+zbee_zcl_ha.applevtalt.count.num
+zbee_zcl_ha.applevtalt.count.type
+zbee_zcl_ha.applevtalt.event.header
+zbee_zcl_ha.applevtalt.event.id
+zbee_zcl_ha.applevtalt.proprietary
+zbee_zcl_ha.applevtalt.reserved
+zbee_zcl_ha.applevtalt.status

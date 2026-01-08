@@ -1,0 +1,7 @@
+aptx.avrcp_song_position
+aptx.cumulative_frame_duration
+aptx.cumulative_music_duration
+aptx.data
+aptx.delta_time
+aptx.delta_time_from_the_beginning
+aptx.diff

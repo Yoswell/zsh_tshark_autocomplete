@@ -1,0 +1,14 @@
+zbee_zcl_general.onoff.attr.globalscenecontrol
+zbee_zcl_general.onoff.attr_id
+zbee_zcl_general.onoff.attr.offwaittime
+zbee_zcl_general.onoff.attr.onoff
+zbee_zcl_general.onoff.attr.ontime
+zbee_zcl_general.onoff.attr.startuponoff
+zbee_zcl_general.onoff.attr.switch_actions
+zbee_zcl_general.onoff.attr.switch_type
+zbee_zcl_general.onoff.cmd.srv_rx.id
+zbee_zcl_general.onoff.effect_identifier
+zbee_zcl_general.onoff.effect_variant
+zbee_zcl_general.onoff.onoff_control_mask
+zbee_zcl_general.onoff.onoff_control_mask.accept_only_when_on
+zbee_zcl_general.onoff.onoff_control_mask.reserved

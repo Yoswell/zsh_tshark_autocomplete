@@ -1,0 +1,8 @@
+bootparams.domain
+bootparams.fileid
+bootparams.filepath
+bootparams.host
+bootparams.hostaddr
+bootparams.procedure_v1
+bootparams.routeraddr
+bootparams.type

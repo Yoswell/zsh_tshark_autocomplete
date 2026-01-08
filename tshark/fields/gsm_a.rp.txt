@@ -1,0 +1,10 @@
+gsm_a.rp.cause
+gsm_a.rp.diagnostic_field
+gsm_a.rp.elem_id
+gsm_a.rp.extension
+gsm_a.rp.extraneous_data
+gsm_a.rp.message_elements
+gsm_a.rp.missing_mandatory_element
+gsm_a.rp.msg_type
+gsm_a.rp.rp_message_reference
+gsm_a.rp.tpdu

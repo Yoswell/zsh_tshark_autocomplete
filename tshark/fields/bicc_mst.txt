@@ -1,0 +1,5 @@
+bicc_mst.lcls_gcr.call_ref_id
+bicc_mst.lcls_gcr.call_ref_id_len
+bicc_mst.lcls_gcr.network_id
+bicc_mst.lcls_gcr.network_id_len
+bicc_mst.lcls_gcr.node_id_len

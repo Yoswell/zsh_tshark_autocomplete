@@ -1,0 +1,8 @@
+gopher.directory
+gopher.directory.host
+gopher.directory.name
+gopher.directory.port
+gopher.directory.selector
+gopher.directory.type
+gopher.request
+gopher.unknown

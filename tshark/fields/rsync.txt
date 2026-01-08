@@ -1,0 +1,8 @@
+rsync.command
+rsync.data
+rsync.hdr_magic
+rsync.hdr_version
+rsync.module_list
+rsync.motd
+rsync.query
+rsync.response

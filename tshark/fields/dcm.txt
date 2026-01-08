@@ -1,0 +1,16 @@
+dcm.data.ctx
+dcm.data.flags
+dcm.data.len
+dcm.data.tag
+dcm.max_pdu_len
+dcm.pdi.async
+dcm.pdi.ctxt
+dcm.pdi.impl
+dcm.pdi.name
+dcm.pdi.result
+dcm.pdi.syntax
+dcm.pdi.version
+dcm.pdu
+dcm.pdu_detail
+dcm.pdu_len
+dcm.pdu.pdi

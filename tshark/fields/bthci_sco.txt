@@ -1,0 +1,8 @@
+bthci_sco.chandle
+bthci_sco.connect_in
+bthci_sco.data
+bthci_sco.disconnect_in
+bthci_sco.length
+bthci_sco.packet_status
+bthci_sco.reserved
+bthci_sco.stream_number

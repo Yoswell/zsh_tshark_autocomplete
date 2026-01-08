@@ -1,0 +1,7 @@
+f5fileinfo.cmdline
+f5fileinfo.hostname
+f5fileinfo.platform
+f5fileinfo.platformname
+f5fileinfo.product
+f5fileinfo.session
+f5fileinfo.version

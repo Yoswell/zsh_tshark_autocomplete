@@ -1,0 +1,12 @@
+vpp.bad_major_version
+vpp.bad_minor_version
+vpp.bad_protocol_hint
+vpp.BufferIndex
+vpp.MajorVersion
+vpp.metadata
+vpp.MinorVersion
+vpp.NodeName
+vpp.opaque
+vpp.opaque2
+vpp.ProtocolHint
+vpp.trace

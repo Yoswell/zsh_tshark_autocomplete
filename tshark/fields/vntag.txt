@@ -1,0 +1,12 @@
+vntag.dir
+vntag.dst
+vntag.etype
+vntag.len
+vntag.len.past_end
+vntag.looped
+vntag.ptr
+vntag.r
+vntag.src
+vntag.trailer
+vntag.version
+vntag.vif_list_id

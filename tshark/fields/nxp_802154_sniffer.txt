@@ -1,0 +1,5 @@
+nxp_802154_sniffer.channel
+nxp_802154_sniffer.id
+nxp_802154_sniffer.length
+nxp_802154_sniffer.lqi
+nxp_802154_sniffer.timestamp

@@ -1,0 +1,14 @@
+zbee_zcl_general.binary_output_basic.attr_id
+zbee_zcl_general.binary_output_basic.attr.polarity
+zbee_zcl_general.binary_output_basic.attr.priority_array.bool
+zbee_zcl_general.binary_output_basic.attr.priority_array.sing_prec
+zbee_zcl_general.binary_output_basic.attr.reliability
+zbee_zcl_general.binary_output_basic.attr.status
+zbee_zcl_general.binary_output_basic.attr.status.fault
+zbee_zcl_general.binary_output_basic.attr.status.in_alarm
+zbee_zcl_general.binary_output_basic.attr.status.out_of_service
+zbee_zcl_general.binary_output_basic.attr.status.overridden
+zbee_zcl_general.binary_output_basic.priority_array
+zbee_zcl_general.binary_output_basic.priority_array.
+zbee_zcl_general.binary_output_basic.structure
+zbee_zcl_general.binary_output_basic.structure.

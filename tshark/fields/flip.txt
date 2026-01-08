@@ -1,0 +1,9 @@
+flip.basic.e
+flip.basic.flowid
+flip.basic.len
+flip.basic.reserved
+flip.basic.seqnum
+flip.chksum.chksum
+flip.chksum.e
+flip.chksum.etype
+flip.chksum.spare

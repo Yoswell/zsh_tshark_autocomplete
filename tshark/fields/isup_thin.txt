@@ -1,0 +1,15 @@
+isup_thin.count
+isup_thin.count.type
+isup_thin.count.version
+isup_thin.dpc
+isup_thin.isup.message.length
+isup_thin.message.class
+isup_thin.messaget.type
+isup_thin.message.type
+isup_thin.mtp.message.name
+isup_thin.oam.message.name
+isup_thin.opc
+isup_thin.priority
+isup_thin.servind
+isup_thin.sls
+isup_thin.subservind

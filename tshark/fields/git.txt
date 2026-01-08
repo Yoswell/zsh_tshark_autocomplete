@@ -1,0 +1,11 @@
+git.bad_pkt_len
+git.data
+git.length
+git.malformed
+git.packet_type
+git.sideband_control_code
+git.terminator
+git.upload_pack_advertisement
+git.upload_pack_request
+git.upload_pack_result
+git.version

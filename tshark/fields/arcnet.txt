@@ -1,0 +1,8 @@
+arcnet.dst
+arcnet.exception_flag
+arcnet.offset
+arcnet.padding
+arcnet.protID
+arcnet.sequence
+arcnet.split_flag
+arcnet.src

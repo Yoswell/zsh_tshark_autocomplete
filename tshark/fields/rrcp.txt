@@ -1,0 +1,11 @@
+rrcp.authkey
+rrcp.hello_reply.chip_id
+rrcp.hello_reply.downlink_port
+rrcp.hello_reply.uplink_mac
+rrcp.hello_reply.uplink_port
+rrcp.hello_reply.vendor_id
+rrcp.opcode
+rrcp.protocol
+rrcp.regaddr
+rrcp.regdata
+rrcp.reply

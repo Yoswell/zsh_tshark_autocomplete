@@ -1,0 +1,5 @@
+ieee8021ad.cvid
+ieee8021ad.dei
+ieee8021ad.id
+ieee8021ad.priority
+ieee8021ad.svid

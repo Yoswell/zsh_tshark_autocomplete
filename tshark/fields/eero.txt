@@ -1,0 +1,3 @@
+eero.data
+eero.hw_mac
+eero.type

@@ -1,0 +1,14 @@
+gss-api.auth_credentials
+gss-api.auth_verifier
+gss-api.OID
+gss-api.reassembled_in
+gss-api.reassembled.length
+gss-api.segment
+gss-api.segment.count
+gss-api.segment.error
+gss-api.segment.multipletails
+gss-api.segment.overlap
+gss-api.segment.overlap.conflict
+gss-api.segment.segments
+gss-api.segment.toolongfragment
+gss-api.token_object

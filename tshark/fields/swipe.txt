@@ -1,0 +1,5 @@
+swipe.authenticator
+swipe.len
+swipe.packet_seq
+swipe.packet_type
+swipe.policy_id

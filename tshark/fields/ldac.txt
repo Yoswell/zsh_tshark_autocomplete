@@ -1,0 +1,15 @@
+ldac.channel_config_index
+ldac.data
+ldac.data.truncated
+ldac.expected_speed_data
+ldac.fragmented
+ldac.frame_length_index_H
+ldac.frame_length_index_L
+ldac.frame_status
+ldac.last_packet
+ldac.number_of_frames
+ldac.rfa
+ldac.sampling_frequency
+ldac.starting_packet
+ldac.syncword
+ldac.syncword.unexpected

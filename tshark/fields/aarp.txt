@@ -1,0 +1,14 @@
+aarp.dst.hw
+aarp.dst.hw_mac
+aarp.dst.proto
+aarp.dst.proto_id
+aarp.hard.size
+aarp.hard.type
+aarp.length.invalid
+aarp.opcode
+aarp.proto.size
+aarp.proto.type
+aarp.src.hw
+aarp.src.hw_mac
+aarp.src.proto
+aarp.src.proto_id

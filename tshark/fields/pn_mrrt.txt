@@ -1,0 +1,6 @@
+pn_mrrt.domain_uuid
+pn_mrrt.length
+pn_mrrt.sa
+pn_mrrt.sequence_id
+pn_mrrt.type
+pn_mrrt.version

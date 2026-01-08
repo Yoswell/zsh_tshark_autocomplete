@@ -1,0 +1,7 @@
+rgmp.bad_checksum
+rgmp.checksum
+rgmp.checksum_bad
+rgmp.checksum.status
+rgmp.maddr
+rgmp.reserved
+rgmp.type

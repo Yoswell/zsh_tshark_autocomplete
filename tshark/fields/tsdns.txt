@@ -1,0 +1,8 @@
+tsdns.data
+tsdns.request
+tsdns.request.domain
+tsdns.response
+tsdns.response.address
+tsdns.response.ip
+tsdns.response.port
+tsdns.response.port.malformed

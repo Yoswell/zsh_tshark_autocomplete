@@ -1,0 +1,5 @@
+gsm_ipa.ctrl.data
+gsm_ipa.data_len
+gsm_ipa.hsl_debug
+gsm_ipa.osmo.protocol
+gsm_ipa.protocol

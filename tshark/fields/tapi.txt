@@ -1,0 +1,6 @@
+tapi.hnd
+tapi.opnum
+tapi.rc
+tapi.unknown.bytes
+tapi.unknown.long
+tapi.unknown.string

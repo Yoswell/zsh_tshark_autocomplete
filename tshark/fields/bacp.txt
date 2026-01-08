@@ -1,0 +1,5 @@
+bacp.link_speed
+bacp.link_type
+bacp.magic_number
+bacp.opt.length
+bacp.opt.type

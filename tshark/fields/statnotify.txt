@@ -1,0 +1,4 @@
+statnotify.name
+statnotify.priv
+statnotify.procedure_v1
+statnotify.state

@@ -1,0 +1,8 @@
+_ws.lua.error
+_ws.lua.fake
+_ws.lua.proto.chat
+_ws.lua.proto.comment
+_ws.lua.proto.error
+_ws.lua.proto.note
+_ws.lua.proto.warning
+_ws.lua.text

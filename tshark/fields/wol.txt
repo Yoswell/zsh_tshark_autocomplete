@@ -1,0 +1,3 @@
+wol.mac
+wol.passwd
+wol.sync

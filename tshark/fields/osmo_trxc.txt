@@ -1,0 +1,10 @@
+osmo_trxc.delim
+osmo_trxc.ei.bad_delimiter
+osmo_trxc.ei.injected_msg
+osmo_trxc.ei.rsp_no_code
+osmo_trxc.ei.unknown_dir
+osmo_trxc.ei.unknown_msg_type
+osmo_trxc.params
+osmo_trxc.status
+osmo_trxc.type
+osmo_trxc.verb

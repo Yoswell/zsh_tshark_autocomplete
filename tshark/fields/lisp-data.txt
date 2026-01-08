@@ -1,0 +1,16 @@
+lisp-data.dstmapver
+lisp-data.flags
+lisp-data.flags.en_invalid
+lisp-data.flags.enr
+lisp-data.flags.iid
+lisp-data.flags.lsb
+lisp-data.flags.mv
+lisp-data.flags.nonce
+lisp-data.flags.nv_invalid
+lisp-data.flags.res
+lisp-data.iid
+lisp-data.lsb
+lisp-data.lsb8
+lisp-data.mapver
+lisp-data.nonce
+lisp-data.srcmapver

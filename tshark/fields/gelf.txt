@@ -1,0 +1,17 @@
+gelf.broken_compression
+gelf.chunk.count
+gelf.chunked
+gelf.chunk.msg_id
+gelf.chunk.number
+gelf.fragment
+gelf.fragment.count
+gelf.fragment.error
+gelf.fragment.multiple_tails
+gelf.fragment.overlap
+gelf.fragment.overlap.conflicts
+gelf.fragments
+gelf.fragment.too_long_fragment
+gelf.invalid_header
+gelf.reassembled.in
+gelf.reassembled.length
+gelf.type

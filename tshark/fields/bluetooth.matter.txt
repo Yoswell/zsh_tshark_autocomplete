@@ -1,0 +1,8 @@
+bluetooth.matter.discriminator
+bluetooth.matter.flags
+bluetooth.matter.flags.additional_data
+bluetooth.matter.flags.ext_announcement
+bluetooth.matter.opcode
+bluetooth.matter.product_id
+bluetooth.matter.vendor_id
+bluetooth.matter.version

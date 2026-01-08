@@ -1,0 +1,3 @@
+hilscher.information_type
+hilscher.net_analyzer.gpio_edge
+hilscher.net_analyzer.gpio_number

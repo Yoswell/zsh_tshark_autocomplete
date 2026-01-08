@@ -1,0 +1,13 @@
+resp.array
+resp.array.length
+resp.array_recursion_too_deep
+resp.bulk_string
+resp.bulk_string.length
+resp.bulk_string.value
+resp.error
+resp.fragment
+resp.integer
+resp.malformed_length
+resp.partial
+resp.reassembled_in_next_frame
+resp.string

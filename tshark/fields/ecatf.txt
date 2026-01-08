@@ -1,0 +1,6 @@
+ecatf.length
+ecatf.length
+ecatf.reserved
+ecatf.reserved
+ecatf.type
+ecatf.type

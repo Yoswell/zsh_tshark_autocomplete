@@ -1,0 +1,11 @@
+yppasswd.newpw
+yppasswd.newpw.dir
+yppasswd.newpw.gecos
+yppasswd.newpw.gid
+yppasswd.newpw.name
+yppasswd.newpw.passwd
+yppasswd.newpw.shell
+yppasswd.newpw.uid
+yppasswd.oldpass
+yppasswd.procedure_v1
+yppasswd.status

@@ -1,0 +1,16 @@
+ipx.addr
+ipx.checksum
+ipx.dst
+ipx.dst.net
+ipx.dst.node
+ipx.dst.socket
+ipx.hops
+ipx.len
+ipx.net
+ipx.node
+ipx.packet_type
+ipx.socket
+ipx.src
+ipx.src.net
+ipx.src.node
+ipx.src.socket

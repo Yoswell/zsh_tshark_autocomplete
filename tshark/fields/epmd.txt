@@ -1,0 +1,16 @@
+epmd.creation
+epmd.creation2
+epmd.dist_high
+epmd.dist_low
+epmd.edata
+epmd.elen
+epmd.len
+epmd.name
+epmd.name_len
+epmd.names
+epmd.node_type
+epmd.port_no
+epmd.protocol
+epmd.result
+epmd.tcp_port
+epmd.type

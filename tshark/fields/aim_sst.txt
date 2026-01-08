@@ -1,0 +1,6 @@
+aim_sst.icon
+aim_sst.icon_size
+aim_sst.md5
+aim_sst.md5.size
+aim_sst.ref_num
+aim_sst.unknown

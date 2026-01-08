@@ -1,0 +1,8 @@
+gsmtap_log.ident
+gsmtap_log.level
+gsmtap_log.pid
+gsmtap_log.src_file.line_nr
+gsmtap_log.src_file.name
+gsmtap_log.string
+gsmtap_log.subsys
+gsmtap_log.timestamp

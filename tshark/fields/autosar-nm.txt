@@ -1,0 +1,17 @@
+autosar-nm.ctrl
+autosar-nm.ctrl.active_wakeup
+autosar-nm.ctrl.nm_coord_id
+autosar-nm.ctrl.nm_coord_sleep
+autosar-nm.ctrl.pni
+autosar-nm.ctrl.pn_learning
+autosar-nm.ctrl.pn_shutdown_request
+autosar-nm.ctrl.repeat_msg_req
+autosar-nm.ctrl.reserved1
+autosar-nm.ctrl.reserved2
+autosar-nm.ctrl.reserved3
+autosar-nm.ctrl.reserved4
+autosar-nm.ctrl.reserved5
+autosar-nm.ctrl.reserved6
+autosar-nm.ctrl.reserved7
+autosar-nm.src
+autosar-nm.user_data

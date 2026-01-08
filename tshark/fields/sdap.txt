@@ -1,0 +1,5 @@
+sdap.pdu-type
+sdap.qfi
+sdap.rdi
+sdap.reserved
+sdap.rqi

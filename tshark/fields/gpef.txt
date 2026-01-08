@@ -1,0 +1,8 @@
+gpef.efskey
+gpef.efskey.certificate
+gpef.efskey.cert_length
+gpef.efskey.cert_offset
+gpef.efskey.length1
+gpef.efskey.length2
+gpef.efskey.sid_offset
+gpef.key_count

@@ -1,0 +1,17 @@
+uhd.echo_len
+uhd.i2c_addr
+uhd.i2c_bytes
+uhd.i2c_data
+uhd.id
+uhd.ip_addr
+uhd.reg_action
+uhd.reg_addr
+uhd.reg_data
+uhd.seq
+uhd.spi_data
+uhd.spi_dev
+uhd.spi_miso_edge
+uhd.spi_mosi_edge
+uhd.spi_num_bits
+uhd.spi_readback
+uhd.version

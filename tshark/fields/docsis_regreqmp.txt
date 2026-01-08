@@ -1,0 +1,6 @@
+docsis_regreqmp.fragment_sequence_number
+docsis_regreqmp.fragment_sequence_number
+docsis_regreqmp.number_of_fragments
+docsis_regreqmp.number_of_fragments
+docsis_regreqmp.sid
+docsis_regreqmp.sid

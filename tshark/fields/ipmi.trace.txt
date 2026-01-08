@@ -1,0 +1,16 @@
+ipmi.trace.block.type
+ipmi.trace.chn.num
+ipmi.trace.data.format
+ipmi.trace.data.len
+ipmi.trace.data.type
+ipmi.trace.dir
+ipmi.trace.ipmb.link.num
+ipmi.trace.ipmb.red.chn
+ipmi.trace.ipmb.state
+ipmi.trace.ipmb.state.loc
+ipmi.trace.ipmb.state.ovr
+ipmi.trace.packet.type
+ipmi.trace.proto.data
+ipmi.trace.stamp
+ipmi.trace.stamp.msec
+ipmi.trace.stamp.sec

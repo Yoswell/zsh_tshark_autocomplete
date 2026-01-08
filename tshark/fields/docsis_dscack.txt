@@ -1,0 +1,3 @@
+docsis_dscack.confcode
+docsis_dscack.confcode
+docsis_dscack.tranid

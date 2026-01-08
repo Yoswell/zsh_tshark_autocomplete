@@ -1,0 +1,15 @@
+dvb_bat.bouquet_desc_len
+dvb_bat.bouquet_id
+dvb_bat.cur_next_ind
+dvb_bat.last_sect_num
+dvb_bat.reserved1
+dvb_bat.reserved2
+dvb_bat.reserved3
+dvb_bat.sect_num
+dvb_bat.sid
+dvb_bat.ts.desc_len
+dvb_bat.ts.id
+dvb_bat.ts_loop_len
+dvb_bat.ts.original_nid
+dvb_bat.ts.reserved
+dvb_bat.version

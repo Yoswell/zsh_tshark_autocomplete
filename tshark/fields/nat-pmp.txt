@@ -1,0 +1,10 @@
+nat-pmp.external_ip
+nat-pmp.external_port
+nat-pmp.internal_port
+nat-pmp.opcode
+nat-pmp.opcode.unknown
+nat-pmp.pml
+nat-pmp.reserved
+nat-pmp.result_code
+nat-pmp.sssoe
+nat-pmp.version

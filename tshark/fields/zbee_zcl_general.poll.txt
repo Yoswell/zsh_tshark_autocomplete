@@ -1,0 +1,7 @@
+zbee_zcl_general.poll.attr_id
+zbee_zcl_general.poll.cmd.srv_rx.id
+zbee_zcl_general.poll.cmd.srv_tx.id
+zbee_zcl_general.poll.fast_timeout
+zbee_zcl_general.poll.new_long_interval
+zbee_zcl_general.poll.new_short_interval
+zbee_zcl_general.poll.start

@@ -1,0 +1,10 @@
+lte_rrc.commercial_mobile_alert_sys
+lte_rrc.earthquake_warning_sys
+lte_rrc.invalid_drx_config
+lte_rrc.number_pages_le15
+lte_rrc.sibs_changing
+lte_rrc.sibs_changing_edrx
+lte_rrc.si_info_value_changed
+lte_rrc.too_many_groupa_rapids
+lte_rrc.unexpected_length_value
+lte_rrc.unexpected_type_value

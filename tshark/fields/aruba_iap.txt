@@ -1,0 +1,13 @@
+aruba_iap.id
+aruba_iap.ip
+aruba_iap.length
+aruba_iap.magic
+aruba_iap.model
+aruba_iap.pvid
+aruba_iap.status
+aruba_iap.type
+aruba_iap.unknown.bytes
+aruba_iap.unknown.uint
+aruba_iap.uptime
+aruba_iap.vc_ip
+aruba_iap.version

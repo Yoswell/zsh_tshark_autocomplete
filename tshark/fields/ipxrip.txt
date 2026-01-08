@@ -1,0 +1,6 @@
+ipxrip.hops
+ipxrip.packet_type
+ipxrip.request
+ipxrip.response
+ipxrip.route_vector
+ipxrip.ticks

@@ -1,0 +1,6 @@
+gsm_l2rcop.addr
+gsm_l2rcop.break
+gsm_l2rcop.break_ack
+gsm_l2rcop.sa
+gsm_l2rcop.sb
+gsm_l2rcop.x

@@ -1,0 +1,14 @@
+felica.block.nbr
+felica.blocks
+felica.cmd
+felica.idm
+felica.opcode
+felica.pnm
+felica.req.code
+felica.res
+felica.status.flag1
+felica.status.flag2
+felica.svc_code
+felica.svcs
+felica.sys_code
+felica.timeslot

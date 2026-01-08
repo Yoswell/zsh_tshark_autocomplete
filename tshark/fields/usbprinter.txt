@@ -1,0 +1,7 @@
+usbprinter.alt_set
+usbprinter.bRequest
+usbprinter.config_index
+usbprinter.device_id
+usbprinter.device_id_len
+usbprinter.interface
+usbprinter.max_len

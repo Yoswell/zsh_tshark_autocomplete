@@ -1,0 +1,7 @@
+dhcpv6.bulk_leasequery.bad_msg_type
+dhcpv6.bulk_leasequery.bad_query_type
+dhcpv6.bulk_leasequery.msgtype
+dhcpv6.bulk_leasequery.no_lq_relay_data
+dhcpv6.bulk_leasequery.reserved
+dhcpv6.bulk_leasequery.size
+dhcpv6.bulk_leasequery.trans_id

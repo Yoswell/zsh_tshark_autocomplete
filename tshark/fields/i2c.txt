@@ -1,0 +1,4 @@
+i2c.addr
+i2c.bus
+i2c.event
+i2c.flags

@@ -1,0 +1,7 @@
+oipf.ciplus.ca_system_id
+oipf.ciplus.cmd_id
+oipf.ciplus.data
+oipf.ciplus.datatype_id
+oipf.ciplus.datatype_len
+oipf.ciplus.num_items
+oipf.ciplus.transaction_id

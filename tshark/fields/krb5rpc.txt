@@ -1,0 +1,9 @@
+krb5rpc.krb5
+krb5rpc.opnum
+krb5rpc.sendto_kdc_resp_keysize
+krb5rpc.sendto_kdc_resp_len
+krb5rpc.sendto_kdc_resp_max
+krb5rpc.sendto_kdc_resp_spare1
+krb5rpc.sendto_kdc_resp_st
+krb5rpc.sendto_kdc_rqst_keysize
+krb5rpc.sendto_kdc_rqst_spare1

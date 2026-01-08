@@ -1,0 +1,15 @@
+applemidi.bitrate_limit
+applemidi.command
+applemidi.count
+applemidi.initiator_token
+applemidi.name
+applemidi.padding
+applemidi.protocol_version
+applemidi.rtp_sequence_number
+applemidi.sender_ssrc
+applemidi.sequence_number
+applemidi.signature
+applemidi.timestamp1
+applemidi.timestamp2
+applemidi.timestamp3
+applemidi.unknown_data

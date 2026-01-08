@@ -1,0 +1,4 @@
+zbee_zcl_meas_sensing.illumlevelsen.attr_id
+zbee_zcl_meas_sensing.illumlevelsen.attr.level_status
+zbee_zcl_meas_sensing.illumlevelsen.attr.light_sensor_type
+zbee_zcl_meas_sensing.illumlevelsen.attr.target_level

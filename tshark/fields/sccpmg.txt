@@ -1,0 +1,11 @@
+sccpmg.ansi_pc
+sccpmg.chinese_pc
+sccpmg.cluster
+sccpmg.congestion
+sccpmg.member
+sccpmg.message_type
+sccpmg.network
+sccpmg.pc
+sccpmg.smi
+sccpmg.ssn
+sccpmg.unknown_msg

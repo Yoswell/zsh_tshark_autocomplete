@@ -1,0 +1,4 @@
+zbee_zcl_se.keep_alive.attr.attr_reporting_status
+zbee_zcl_se.keep_alive.attr.base
+zbee_zcl_se.keep_alive.attr_id
+zbee_zcl_se.keep_alive.attr.jitter

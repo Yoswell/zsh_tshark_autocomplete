@@ -1,0 +1,7 @@
+cosine.channel_id
+cosine.err
+cosine.off
+cosine.pri
+cosine.pro
+cosine.rm
+cosine.sar

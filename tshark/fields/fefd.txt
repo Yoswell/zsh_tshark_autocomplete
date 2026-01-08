@@ -1,0 +1,11 @@
+fefd.checksum
+fefd.data
+fefd.device_id
+fefd.flags
+fefd.flags.rsy
+fefd.flags.rt
+fefd.opcode
+fefd.sent_through_interface
+fefd.tlv.len
+fefd.tlv.type
+fefd.version

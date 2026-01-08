@@ -1,0 +1,14 @@
+data.data
+data.fragment
+data.fragment.error
+data.fragment.multiple_tails
+data.fragment.overlap
+data.fragment.overlap.conflicts
+data.fragments
+data.fragment.too_long_fragment
+data.len
+data.md5_hash
+data.reassembled.in
+data.text
+data.uncompressed.data
+data.uncompressed.len

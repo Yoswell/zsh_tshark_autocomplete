@@ -1,0 +1,6 @@
+zbee_zcl_meas_sensing.illummeas.attr_id
+zbee_zcl_meas_sensing.illummeas.attr.sensor_type
+zbee_zcl_meas_sensing.illummeas.attr.tolerance
+zbee_zcl_meas_sensing.illummeas.attr.value
+zbee_zcl_meas_sensing.illummeas.attr.value.max
+zbee_zcl_meas_sensing.illummeas.attr.value.min

@@ -1,0 +1,7 @@
+xcsl.command
+xcsl.information
+xcsl.parameter
+xcsl.protocol_version
+xcsl.result
+xcsl.transacion_id
+xcsl.transaction_id

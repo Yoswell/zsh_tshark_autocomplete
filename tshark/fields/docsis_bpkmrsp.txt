@@ -1,0 +1,3 @@
+docsis_bpkmrsp.code
+docsis_bpkmrsp.ident
+docsis_bpkmrsp.length

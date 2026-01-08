@@ -1,0 +1,10 @@
+bpsec-defaultsc.aesvar
+bpsec-defaultsc.authtag
+bpsec-defaultsc.hmac
+bpsec-defaultsc.iv
+bpsec-defaultsc.scope
+bpsec-defaultsc.scope.pri_block
+bpsec-defaultsc.scope.sec_head
+bpsec-defaultsc.scope.tgt_head
+bpsec-defaultsc.shavar
+bpsec-defaultsc.wrappedkey

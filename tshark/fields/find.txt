@@ -1,0 +1,7 @@
+find.literal_name
+find.manufacturer_code
+find.opcode
+find.packet_terminator
+find.target_hardware_identifier
+find.target_position
+find.target_type_name

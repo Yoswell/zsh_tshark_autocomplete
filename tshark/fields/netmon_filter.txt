@@ -1,0 +1,6 @@
+netmon_filter.app_major_version
+netmon_filter.app_minor_version
+netmon_filter.app_name
+netmon_filter.filter
+netmon_filter.type
+netmon_filter.version

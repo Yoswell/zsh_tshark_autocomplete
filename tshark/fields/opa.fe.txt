@@ -1,0 +1,5 @@
+opa.fe.headerversion
+opa.fe.length
+opa.fe.lengthoob
+opa.fe.magicnumber
+opa.fe.reserved64

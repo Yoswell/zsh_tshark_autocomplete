@@ -1,0 +1,17 @@
+pwcesopsn.cw
+pwcesopsn.cw.bits03
+pwcesopsn.cw.bits03.not_zero
+pwcesopsn.cw.frag
+pwcesopsn.cw.frag.not_allowed
+pwcesopsn.cw.length
+pwcesopsn.cw.length.invalid
+pwcesopsn.cw.lm
+pwcesopsn.cw.lm.reserved
+pwcesopsn.cw.rbit
+pwcesopsn.cw.seqno
+pwcesopsn.packet_size_too_small
+pwcesopsn.padding
+pwcesopsn.payload
+pwcesopsn.payload.len
+pwcesopsn.payload.size_invalid
+pwcesopsn.payload.undecoded

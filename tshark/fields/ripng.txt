@@ -1,0 +1,8 @@
+ripng.cmd
+ripng.reserved
+ripng.rte
+ripng.rte.ipv6_prefix
+ripng.rte.metric
+ripng.rte.prefix_length
+ripng.rte.route_tag
+ripng.version

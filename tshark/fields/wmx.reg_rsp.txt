@@ -1,0 +1,17 @@
+wmx.reg_rsp.invalid_tlv
+wmx.reg_rsp.invalid_tlv
+wmx.reg_rsp.new_cid_after_ho
+wmx.reg_rsp.new_cid_after_ho
+wmx.reg_rsp.response
+wmx.reg_rsp.response
+wmx.reg_rsp.secondary_mgmt_cid
+wmx.reg_rsp.secondary_mgmt_cid
+wmx.reg_rsp.service_flow_id
+wmx.reg_rsp.service_flow_id
+wmx.reg_rsp.system_resource_retain_time
+wmx.reg_rsp.system_resource_retain_time
+wmx.reg_rsp.tlv_value
+wmx.reg_rsp.total_provisional_sf
+wmx.reg_rsp.total_provisional_sf
+wmx.reg_rsp.unknown_tlv_type
+wmx.reg_rsp.unknown_tlv_type

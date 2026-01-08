@@ -1,0 +1,10 @@
+zbee_zcl_meas_sensing.pressmeas.attr_id
+zbee_zcl_meas_sensing.pressmeas.attr.scale
+zbee_zcl_meas_sensing.pressmeas.attr.scaled_tolerance
+zbee_zcl_meas_sensing.pressmeas.attr.scaled_value
+zbee_zcl_meas_sensing.pressmeas.attr.scaled_value.max
+zbee_zcl_meas_sensing.pressmeas.attr.scaled_value.min
+zbee_zcl_meas_sensing.pressmeas.attr.tolerance
+zbee_zcl_meas_sensing.pressmeas.attr.value
+zbee_zcl_meas_sensing.pressmeas.attr.value.max
+zbee_zcl_meas_sensing.pressmeas.attr.value.min

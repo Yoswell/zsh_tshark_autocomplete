@@ -1,0 +1,10 @@
+hdmi.addr
+hdmi.edid.hdr
+hdmi.edid.manf_id
+hdmi.edid.manf_prod_code
+hdmi.edid.manf_week
+hdmi.edid.manf_year
+hdmi.edid.model_year
+hdmi.edid.offset
+hdmi.edid.serial_num
+hdmi.edid.version

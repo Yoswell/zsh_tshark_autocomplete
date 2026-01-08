@@ -1,0 +1,4 @@
+ipaccess.attr_string
+ipaccess.attr_tag
+ipaccess.attr_unk
+ipaccess.msg_type

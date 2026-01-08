@@ -1,0 +1,10 @@
+egd.csig
+egd.exid
+egd.notime
+egd.pid
+egd.rid
+egd.rsrv
+egd.stat
+egd.time
+egd.type
+egd.ver

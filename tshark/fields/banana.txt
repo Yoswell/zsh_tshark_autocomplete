@@ -1,0 +1,13 @@
+banana.float
+banana.int
+banana.length_too_long
+banana.lg_int
+banana.lg_neg_int
+banana.list
+banana.neg_int
+banana.pb
+banana.pb_error
+banana.string
+banana.too_many_value_bytes
+banana.unknown_type
+banana.value_too_large

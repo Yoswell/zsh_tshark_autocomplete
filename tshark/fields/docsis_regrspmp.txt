@@ -1,0 +1,8 @@
+docsis_regrspmp.fragment_sequence_number
+docsis_regrspmp.fragment_sequence_number
+docsis_regrspmp.number_of_fragments
+docsis_regrspmp.number_of_fragments
+docsis_regrspmp.response
+docsis_regrspmp.response
+docsis_regrspmp.sid
+docsis_regrspmp.sid

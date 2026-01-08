@@ -1,0 +1,13 @@
+daap.count
+daap.data
+daap.data_string
+daap.id
+daap.max_recursion_depth_reached
+daap.name
+daap.persistent_id
+daap.playlist_id
+daap.revision
+daap.size
+daap.status
+daap.timeout
+daap.track_id

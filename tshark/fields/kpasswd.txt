@@ -1,0 +1,9 @@
+kpasswd.ap_req
+kpasswd.ap_req_len
+kpasswd.ChangePasswdData
+kpasswd.krb_priv
+kpasswd.message_len
+kpasswd.new_password
+kpasswd.result
+kpasswd.result_string
+kpasswd.version

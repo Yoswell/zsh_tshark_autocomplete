@@ -1,0 +1,8 @@
+fddi.addr
+fddi.dst
+fddi.fc
+fddi.fc.clf
+fddi.fc.mac_subtype
+fddi.fc.prio
+fddi.fc.smt_subtype
+fddi.src

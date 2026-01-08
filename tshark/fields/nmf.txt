@@ -1,0 +1,15 @@
+nmf.bad_record_size
+nmf.known_mode.value
+nmf.mode.value
+nmf.negotiate.length
+nmf.negotiate.type
+nmf.protect.length
+nmf.record
+nmf.sized_envelope.length
+nmf.type
+nmf.upgrade.length
+nmf.upgrade.protocol
+nmf.version.major
+nmf.version.minor
+nmf.via.length
+nmf.via.uri

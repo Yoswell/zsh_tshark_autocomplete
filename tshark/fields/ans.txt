@@ -1,0 +1,5 @@
+ans.app_id
+ans.rev_id
+ans.sender_id
+ans.seq_num
+ans.team_id

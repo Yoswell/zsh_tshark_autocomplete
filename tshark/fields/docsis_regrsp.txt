@@ -1,0 +1,4 @@
+docsis_regrsp.respnse
+docsis_regrsp.respnse
+docsis_regrsp.sid
+docsis_regrsp.sid

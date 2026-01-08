@@ -1,0 +1,17 @@
+hcrt.address32
+hcrt.address64
+hcrt.adl
+hcrt.am
+hcrt.body
+hcrt.command_nop
+hcrt.data32
+hcrt.data64
+hcrt.do
+hcrt.error
+hcrt.first_dword_enable
+hcrt.hdr
+hcrt.last
+hcrt.last_dword_enable
+hcrt.response_code
+hcrt.tag
+hcrt.type

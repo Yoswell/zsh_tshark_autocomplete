@@ -1,0 +1,11 @@
+remact.authn_hint
+remact.client_impl_level
+remact.interface_data
+remact.interfaces
+remact.mode
+remact.object_name
+remact.object_storage
+remact.opnum
+remact.oxid_bindings
+remact.prot_seqs
+remact.req_prot_seqs

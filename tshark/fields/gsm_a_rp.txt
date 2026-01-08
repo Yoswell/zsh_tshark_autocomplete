@@ -1,0 +1,2 @@
+gsm_a_rp.elem_id
+gsm_a_rp.msg_type

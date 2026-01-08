@@ -1,0 +1,8 @@
+zbee_zcl_ha.applstats.attr_id
+zbee_zcl_ha.applstats.cmd.srv_rx.id
+zbee_zcl_ha.applstats.cmd.srv_tx.id
+zbee_zcl_ha.applstats.log.id
+zbee_zcl_ha.applstats.log.length
+zbee_zcl_ha.applstats.log.payload
+zbee_zcl_ha.applstats.log_queue_size
+zbee_zcl_ha.applstats.utc_time

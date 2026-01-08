@@ -1,0 +1,3 @@
+hpext.dxsap
+hpext.reserved
+hpext.sxsap

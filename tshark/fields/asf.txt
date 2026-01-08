@@ -1,0 +1,15 @@
+asf.auth_alg
+asf.client_id
+asf.iana
+asf.integrity_alg
+asf.len
+asf.mgt_console_id
+asf.payload
+asf.payload.data
+asf.payload.len
+asf.payload_too_short
+asf.payload.type
+asf.reserved
+asf.rssp_status_code
+asf.tag
+asf.type

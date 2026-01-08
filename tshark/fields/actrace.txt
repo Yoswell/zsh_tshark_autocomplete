@@ -1,0 +1,15 @@
+actrace.cas.bchannel
+actrace.cas.conn_id
+actrace.cas.curr_state
+actrace.cas.event
+actrace.cas.function
+actrace.cas.next_state
+actrace.cas.par0
+actrace.cas.par1
+actrace.cas.par2
+actrace.cas.source
+actrace.cas.time
+actrace.cas.trunk
+actrace.isdn.dir
+actrace.isdn.length
+actrace.isdn.trunk

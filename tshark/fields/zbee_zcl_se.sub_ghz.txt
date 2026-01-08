@@ -1,0 +1,5 @@
+zbee_zcl_se.sub_ghz.attr.attr_reporting_status
+zbee_zcl_se.sub_ghz.attr_id
+zbee_zcl_se.sub_ghz.cmd.srv_rx.id
+zbee_zcl_se.sub_ghz.cmd.srv_tx.id
+zbee_zcl_se.sub_ghz.zcl_messages_suspension_period

@@ -1,0 +1,9 @@
+docsis_dpvreq.dschan
+docsis_dpvreq.end
+docsis_dpvreq.flags
+docsis_dpvreq.n
+docsis_dpvreq.start
+docsis_dpvreq.tranid
+docsis_dpvreq.ts_end
+docsis_dpvreq.ts_start
+docsis_dpvreq.us_sf

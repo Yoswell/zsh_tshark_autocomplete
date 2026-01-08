@@ -1,0 +1,8 @@
+dpnss_link.crbit
+dpnss_link.dlcId
+dpnss_link.dlcIdNr
+dpnss_link.extension
+dpnss_link.extension2
+dpnss_link.framegroup
+dpnss_link.frameType
+dpnss_link.reserved

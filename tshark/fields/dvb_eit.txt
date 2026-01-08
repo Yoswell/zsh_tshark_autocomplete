@@ -1,0 +1,16 @@
+dvb_eit.cur_next_ind
+dvb_eit.evt.descr_loop_len
+dvb_eit.evt.duration
+dvb_eit.evt.free_ca_mode
+dvb_eit.evt.id
+dvb_eit.evt.running_status
+dvb_eit.evt.start_time
+dvb_eit.last_sect_num
+dvb_eit.last_tid
+dvb_eit.original_nid
+dvb_eit.reserved
+dvb_eit.sect_num
+dvb_eit.segment_last_sect_num
+dvb_eit.sid
+dvb_eit.tsid
+dvb_eit.version

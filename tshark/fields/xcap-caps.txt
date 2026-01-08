@@ -1,0 +1,4 @@
+xcap-caps.auid
+xcap-caps.cdata
+xcap-caps.extension
+xcap-caps.namespace

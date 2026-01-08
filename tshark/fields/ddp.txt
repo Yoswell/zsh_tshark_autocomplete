@@ -1,0 +1,13 @@
+ddp.checksum
+ddp.dst
+ddp.dst.net
+ddp.dst.node
+ddp.dst_socket
+ddp.hopcount
+ddp.len
+ddp.len_invalid
+ddp.src
+ddp.src.net
+ddp.src.node
+ddp.src_socket
+ddp.type

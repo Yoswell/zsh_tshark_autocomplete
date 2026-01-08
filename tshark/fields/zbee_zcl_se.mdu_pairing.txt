@@ -1,0 +1,11 @@
+zbee_zcl_se.mdu_pairing.attr.attr_reporting_status
+zbee_zcl_se.mdu_pairing.attr_id
+zbee_zcl_se.mdu_pairing.cmd.srv_rx.id
+zbee_zcl_se.mdu_pairing.cmd.srv_tx.id
+zbee_zcl_se.mdu_pairing.command_index
+zbee_zcl_se.mdu_pairing.device_eui64
+zbee_zcl_se.mdu_pairing.info_version
+zbee_zcl_se.mdu_pairing.local_info_version
+zbee_zcl_se.mdu_pairing.requesting_device_eui64
+zbee_zcl_se.mdu_pairing.total_commands_number
+zbee_zcl_se.mdu_pairing.total_devices_number

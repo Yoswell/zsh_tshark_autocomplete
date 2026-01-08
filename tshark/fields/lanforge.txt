@@ -1,0 +1,12 @@
+lanforge.CRC
+lanforge.dest-session-id
+lanforge.magic
+lanforge.pld-length
+lanforge.pld-len-H
+lanforge.pld-len-L
+lanforge.pld-pattern
+lanforge.seqno
+lanforge.source-session-id
+lanforge.timestamp
+lanforge.ts-nsecs
+lanforge.ts-secs

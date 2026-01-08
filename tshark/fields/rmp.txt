@@ -1,0 +1,10 @@
+rmp.filename
+rmp.machtype
+rmp.offset
+rmp.reserved
+rmp.retcode
+rmp.seqnum
+rmp.sessionid
+rmp.size
+rmp.type
+rmp.version

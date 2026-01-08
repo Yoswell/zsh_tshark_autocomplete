@@ -1,0 +1,9 @@
+conv.opnum
+conv.status
+conv.who_are_you2_resp_casuuid
+conv.who_are_you2_resp_seq
+conv.who_are_you2_rqst_actuid
+conv.who_are_you2_rqst_boot_time
+conv.who_are_you_resp_seq
+conv.who_are_you_rqst_actuid
+conv.who_are_you_rqst_boot_time

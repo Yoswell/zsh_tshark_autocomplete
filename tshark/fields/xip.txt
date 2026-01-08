@@ -1,0 +1,15 @@
+xip.bad_num_dst
+xip.bad_num_src
+xip.dst_dag
+xip.dst_dag_entry
+xip.hop_limit
+xip.invalid.len
+xip.last_node
+xip.next_hdr
+xip.next.header
+xip.num_dst
+xip.num_src
+xip.payload_len
+xip.src_dag
+xip.src_dag_entry
+xip.version

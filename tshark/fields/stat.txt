@@ -1,0 +1,15 @@
+stat.mon
+stat.mon_id.name
+stat.my_id
+stat.my_id.hostname
+stat.my_id.proc
+stat.my_id.prog
+stat.my_id.vers
+stat.name
+stat.priv
+stat.procedure_v1
+stat.stat_chge
+stat.state
+stat.stat_res
+stat.stat_res.res
+stat.stat_res.state

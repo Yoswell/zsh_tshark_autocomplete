@@ -1,0 +1,6 @@
+zbee_zcl_meas_sensing.tempmeas.attr_id
+zbee_zcl_meas_sensing.tempmeas.attr_idd
+zbee_zcl_meas_sensing.tempmeas.attr.tolerance
+zbee_zcl_meas_sensing.tempmeas.attr.value
+zbee_zcl_meas_sensing.tempmeas.attr.value.max
+zbee_zcl_meas_sensing.tempmeas.attr.value.min

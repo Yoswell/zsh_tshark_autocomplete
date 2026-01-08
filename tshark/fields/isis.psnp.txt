@@ -1,0 +1,12 @@
+isis.psnp.clv.length
+isis.psnp.clv.type
+isis.psnp.clv.unknown
+isis.psnp.long_packet
+isis.psnp.long_pdu
+isis.psnp.pdu_length
+isis.psnp.pdu_length
+isis.psnp.short_clv
+isis.psnp.short_packet
+isis.psnp.short_pdu
+isis.psnp.source_circuit
+isis.psnp.source_id

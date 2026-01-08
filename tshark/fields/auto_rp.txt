@@ -1,0 +1,12 @@
+auto_rp.group_num
+auto_rp.group_prefix
+auto_rp.holdtime
+auto_rp.mask_len
+auto_rp.pim_ver
+auto_rp.prefix_sign
+auto_rp.reserved
+auto_rp.rp_addr
+auto_rp.rp_count
+auto_rp.trailing_junk
+auto_rp.type
+auto_rp.version

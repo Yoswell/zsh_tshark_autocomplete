@@ -1,0 +1,15 @@
+docsis_dccrsp.cm_jump_time_length
+docsis_dccrsp.cm_jump_time_length
+docsis_dccrsp.cm_jump_time_start
+docsis_dccrsp.cm_jump_time_start
+docsis_dccrsp.cm_jump_tlvlen
+docsis_dccrsp.cm_jump_tlvtype
+docsis_dccrsp.conf_code
+docsis_dccrsp.conf_code
+docsis_dccrsp.hmac_digest
+docsis_dccrsp.hmac_digest
+docsis_dccrsp.key_seq_num
+docsis_dccrsp.key_seq_num
+docsis_dccrsp.tlvlen
+docsis_dccrsp.tlvtype
+docsis_dccrsp.tran_id

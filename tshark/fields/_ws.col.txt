@@ -1,0 +1,7 @@
+_ws.col.cls_time
+_ws.col.def_dst
+_ws.col.def_src
+_ws.col.info
+_ws.col.number
+_ws.col.packet_length
+_ws.col.protocol

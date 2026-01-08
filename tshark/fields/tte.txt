@@ -1,0 +1,15 @@
+tte.cf
+tte.cf1
+tte.ctid
+tte.macdest
+tte.macsrc
+tte.pcf
+tte.pcf.ic
+tte.pcf.mn
+tte.pcf.res0
+tte.pcf.res1
+tte.pcf.sd
+tte.pcf.sp
+tte.pcf.tc
+tte.pcf.type
+tte.type

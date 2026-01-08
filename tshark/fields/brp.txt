@@ -1,0 +1,14 @@
+brp.bw
+brp.dstip
+brp.dstuport
+brp.flid
+brp.fltype
+brp.life
+brp.mbz
+brp.rmttl
+brp.srcip
+brp.stat
+brp.trans
+brp.type
+brp.type.unknown
+brp.ver

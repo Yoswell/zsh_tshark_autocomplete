@@ -1,0 +1,4 @@
+rtag.protocol
+rtag.reserved
+rtag.seqno
+rtag.trailer

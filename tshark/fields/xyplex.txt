@@ -1,0 +1,7 @@
+xyplex.data
+xyplex.pad
+xyplex.reply
+xyplex.reserved
+xyplex.return_port
+xyplex.server_port
+xyplex.type

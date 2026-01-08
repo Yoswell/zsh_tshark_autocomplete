@@ -1,0 +1,6 @@
+zbee_zcl_closures.window_covering.attr.current_position_lift_percentage
+zbee_zcl_closures.window_covering.attr.current_position_tilt_percentage
+zbee_zcl_closures.window_covering.attr_id
+zbee_zcl_closures.window_covering.attr.type
+zbee_zcl_closures.window_covering.cmd.srv_rx.id
+zbee_zcl_closures.window_covering.go_to

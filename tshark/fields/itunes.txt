@@ -1,0 +1,11 @@
+itunes.author
+itunes.block
+itunes.category
+itunes.category.text
+itunes.cdata
+itunes.duration
+itunes.explicit
+itunes.keywords
+itunes.owner
+itunes.subtitle
+itunes.summary

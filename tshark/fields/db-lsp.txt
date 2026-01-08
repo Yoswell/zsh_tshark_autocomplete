@@ -1,0 +1,7 @@
+db-lsp.data
+db-lsp.length
+db-lsp.magic
+db-lsp.op
+db-lsp.text
+db-lsp.type
+db-lsp.value

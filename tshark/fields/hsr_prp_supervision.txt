@@ -1,0 +1,10 @@
+hsr_prp_supervision.path
+hsr_prp_supervision.red_box_mac_address
+hsr_prp_supervision.source_mac_address
+hsr_prp_supervision.source_mac_address_A
+hsr_prp_supervision.source_mac_address_B
+hsr_prp_supervision.supervision_seqno
+hsr_prp_supervision.tlv.length
+hsr_prp_supervision.tlv.type
+hsr_prp_supervision.vdan_mac_address
+hsr_prp_supervision.version

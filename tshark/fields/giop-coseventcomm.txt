@@ -1,0 +1,5 @@
+giop-coseventcomm.PullSupplier.try_pull.has_event
+giop-coseventcomm.Request_Operation
+giop-coseventcomm.unknown_exception
+giop-coseventcomm.unknown_giop_msg
+giop-coseventcomm.unknown_reply_status

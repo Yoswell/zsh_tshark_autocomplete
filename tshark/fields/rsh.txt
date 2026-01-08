@@ -1,0 +1,8 @@
+rsh.client_server_data
+rsh.client_username
+rsh.command
+rsh.request
+rsh.response
+rsh.server_client_data
+rsh.server_username
+rsh.stderr_port

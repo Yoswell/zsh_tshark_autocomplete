@@ -1,0 +1,6 @@
+zbee_zcl_general.time.attr_id
+zbee_zcl_general.time.attr.time_status
+zbee_zcl_general.time.attr.time_status.master
+zbee_zcl_general.time.attr.time_status.master_zone_dst
+zbee_zcl_general.time.attr.time_status.superseding
+zbee_zcl_general.time.attr.time_status.synchronized

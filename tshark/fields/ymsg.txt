@@ -1,0 +1,11 @@
+ymsg.command
+ymsg.content
+ymsg.content-line
+ymsg.content-line.key
+ymsg.content-line.value
+ymsg.len
+ymsg.service
+ymsg.session_id
+ymsg.status
+ymsg.vendor
+ymsg.version

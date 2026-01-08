@@ -1,0 +1,17 @@
+yami.frame_number
+yami.frame_payload_size
+yami.items_count
+yami.message_header_size
+yami.message_id
+yami.msg_data
+yami.msg_hdr
+yami.param
+yami.param.name
+yami.params_count
+yami.param.type
+yami.param.value_bin
+yami.param.value_bool
+yami.param.value_double
+yami.param.value_int
+yami.param.value_long
+yami.param.value_str

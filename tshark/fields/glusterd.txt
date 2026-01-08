@@ -1,0 +1,14 @@
+glusterd.brick.proc
+glusterd.buffer
+glusterd.dict
+glusterd.friend.proc
+glusterd.hostname
+glusterd.mgmt.proc
+glusterd.name
+glusterd.op
+glusterd.op_errstr
+glusterd.op_ret
+glusterd.port
+glusterd.tnx_id
+glusterd.uuid
+glusterd.vols

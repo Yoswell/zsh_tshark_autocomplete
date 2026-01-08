@@ -1,0 +1,15 @@
+x29.break_value
+x29.data
+x29.error_type
+x29.error_type
+x29.inv_msg_code
+x29.inv_msg_code
+x29.msg_code
+x29.msg_code
+x29.pad_message_data
+x29.parameter
+x29.reselection_message_data
+x29.type_of_aspect
+x29.type_reference
+x29.type_reference.value
+x29.value

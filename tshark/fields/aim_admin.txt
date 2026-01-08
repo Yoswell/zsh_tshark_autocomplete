@@ -1,0 +1,4 @@
+aim_admin.acctinfo.code
+aim_admin.acctinfo.permissions
+aim_admin.acctinfo.unknown
+aim_admin.confirm_status

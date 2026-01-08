@@ -1,0 +1,12 @@
+sync.elapsed_octet_ctr
+sync.header_crc
+sync.length_of_packet
+sync.packet_nr
+sync.payload_crc
+sync.pdu_type2
+sync.spare
+sync.timestamp
+sync.total_nr_of_octet
+sync.total_nr_of_packet
+sync.type
+sync.type.unknown

@@ -1,0 +1,10 @@
+gsm_um.arfcn
+gsm_um.band
+gsm_um.bsic
+gsm_um.channel
+gsm_um.direction
+gsm_um.error
+gsm_um.frame
+gsm_um.frequency
+gsm_um.l2_pseudo_len
+gsm_um.timeshift

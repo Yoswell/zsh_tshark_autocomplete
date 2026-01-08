@@ -1,0 +1,8 @@
+maap.conflict_count
+maap.conflict_start_addr
+maap.data_length
+maap.message_type
+maap.req_count
+maap.req_start_addr
+maap.stream_id
+maap.version

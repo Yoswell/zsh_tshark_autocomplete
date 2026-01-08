@@ -1,0 +1,5 @@
+zbee_zcl_meas_sensing.flowmeas.attr_id
+zbee_zcl_meas_sensing.flowmeas.attr.tolerance
+zbee_zcl_meas_sensing.flowmeas.attr.value
+zbee_zcl_meas_sensing.flowmeas.attr.value.max
+zbee_zcl_meas_sensing.flowmeas.attr.value.min

@@ -1,0 +1,15 @@
+who.boottime
+who.entry
+who.hostname
+who.idle
+who.loadav_10
+who.loadav_15
+who.loadav_5
+who.recvtime
+who.sendtime
+who.timeon
+who.tty
+who.type
+who.uid
+who.vers
+who.whoent

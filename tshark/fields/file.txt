@@ -1,0 +1,10 @@
+file.coloring_rule.name
+file.coloring_rule.string
+file.encap_type
+file.ignored
+file.marked
+file.p_record_data
+file.proto_name_and_key
+file.record_len
+file.record_number
+file.record_types

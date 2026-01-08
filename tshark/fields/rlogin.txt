@@ -1,0 +1,17 @@
+rlogin.client_startup_flag
+rlogin.client_user_name
+rlogin.control_message
+rlogin.data
+rlogin.magic_cookie
+rlogin.server_user_name
+rlogin.startup_info_received_flag
+rlogin.terminal_speed
+rlogin.terminal_speed.invalid
+rlogin.terminal_type
+rlogin.user_info
+rlogin.window_size
+rlogin.window_size.cols
+rlogin.window_size.rows
+rlogin.window_size.ss
+rlogin.window_size.x_pixels
+rlogin.window_size.y_pixels

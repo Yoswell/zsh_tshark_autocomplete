@@ -1,0 +1,1 @@
+zbee_zcl_ha.diagnostics.attr_id

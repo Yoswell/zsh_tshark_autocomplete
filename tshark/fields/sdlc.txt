@@ -1,0 +1,10 @@
+sdlc.address
+sdlc.control
+sdlc.control.f
+sdlc.control.ftype
+sdlc.control.n_r
+sdlc.control.n_s
+sdlc.control.p
+sdlc.control.s_ftype
+sdlc.control.u_modifier_cmd
+sdlc.control.u_modifier_resp

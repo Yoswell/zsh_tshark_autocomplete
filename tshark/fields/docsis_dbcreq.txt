@@ -1,0 +1,5 @@
+docsis_dbcreq.fragment_sequence_number
+docsis_dbcreq.fragment_sequence_number
+docsis_dbcreq.number_of_fragments
+docsis_dbcreq.number_of_fragments
+docsis_dbcreq.tranid

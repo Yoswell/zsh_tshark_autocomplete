@@ -1,0 +1,6 @@
+dmx_text.line_length
+dmx_text.line_length
+dmx_text.page_nr
+dmx_text.page_nr
+dmx_text.string
+dmx_text.string

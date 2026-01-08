@@ -1,0 +1,6 @@
+calcappprotocol.message_completed
+calcappprotocol.message_flags
+calcappprotocol.message_jobid
+calcappprotocol.message_jobsize
+calcappprotocol.message_length
+calcappprotocol.message_type

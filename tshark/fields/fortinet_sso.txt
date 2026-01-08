@@ -1,0 +1,14 @@
+fortinet_sso.client_ip
+fortinet_sso.domain
+fortinet_sso.host
+fortinet_sso.length
+fortinet_sso.payload_length
+fortinet_sso.string
+fortinet_sso.timestamp
+fortinet_sso.tsagent.port_range.max
+fortinet_sso.tsagent.port_range.min
+fortinet_sso.tsagent.port_range.number
+fortinet_sso.unknown
+fortinet_sso.unknown.ipv4
+fortinet_sso.user
+fortinet_sso.version

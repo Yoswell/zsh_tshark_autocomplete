@@ -1,0 +1,17 @@
+rdpdr.completionid
+rdpdr.component
+rdpdr.devicecount
+rdpdr.devicedata
+rdpdr.devicedatalen
+rdpdr.deviceid
+rdpdr.devicetype
+rdpdr.dosname
+rdpdr.dr.create.info
+rdpdr.fileid
+rdpdr.iorequestframe
+rdpdr.ioresultframe
+rdpdr.iostatus
+rdpdr.majorfunction
+rdpdr.minorfunction
+rdpdr.packetid
+rdpdr.resultcode

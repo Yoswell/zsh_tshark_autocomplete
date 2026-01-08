@@ -1,0 +1,3 @@
+aim_signon.challenge
+aim_signon.challengelen
+aim_signon.infotype

@@ -1,0 +1,11 @@
+iser.flags
+iser.flags.opcode
+iser.flags.rej
+iser.flags.rsv
+iser.flags.wsv
+iser.ird
+iser.ord
+iser.read_base_offset
+iser.read_stag
+iser.write_base_offset
+iser.write_stag

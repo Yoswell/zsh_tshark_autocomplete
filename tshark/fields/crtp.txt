@@ -1,0 +1,15 @@
+crtp.cid
+crtp.cnt
+crtp.cs_flags
+crtp.data
+crtp.fh_flags
+crtp.fh_flags.cidlen
+crtp.fh_flags.data
+crtp.flags
+crtp.gen
+crtp.invalid
+crtp.ip-id
+crtp.ip_version_unsupported
+crtp.next_protocol_unsupported
+crtp.seq
+crtp.seq_nonzero

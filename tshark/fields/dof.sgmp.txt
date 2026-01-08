@@ -1,0 +1,13 @@
+dof.sgmp.v1.delay
+dof.sgmp.v1.desire
+dof.sgmp.v1.domain
+dof.sgmp.v1.epoch
+dof.sgmp.v1.initial-state
+dof.sgmp.v1.initiator-block
+dof.sgmp.v1.key
+dof.sgmp.v1.latest-sgmp-version
+dof.sgmp.v1.opcode
+dof.sgmp.v1.security-scope
+dof.sgmp.v1.ticket
+dof.sgmp.v1.tie-breaker
+dof.sgmp.v1.tmin

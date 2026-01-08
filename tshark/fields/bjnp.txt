@@ -1,0 +1,7 @@
+bjnp.code
+bjnp.id
+bjnp.payload
+bjnp.payload_len
+bjnp.seq_no
+bjnp.session_id
+bjnp.type

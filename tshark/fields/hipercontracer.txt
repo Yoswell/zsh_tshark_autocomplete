@@ -1,0 +1,6 @@
+hipercontracer.checksum_tweak
+hipercontracer.magic_number
+hipercontracer.round
+hipercontracer.send_timestamp
+hipercontracer.send_ttl
+hipercontracer.seq_number

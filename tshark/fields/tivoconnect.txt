@@ -1,0 +1,7 @@
+tivoconnect.flavor
+tivoconnect.identity
+tivoconnect.machine
+tivoconnect.method
+tivoconnect.platform
+tivoconnect.services
+tivoconnect.version

@@ -1,0 +1,6 @@
+hpna.data
+hpna.etype
+hpna.length
+hpna.trailer
+hpna.type
+hpna.version

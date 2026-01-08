@@ -1,0 +1,4 @@
+discard.data
+discard.len
+discard.md5_hash
+discard.text

@@ -1,0 +1,10 @@
+rfr.MAPISTATUS_status
+rfr.opnum
+rfr.RfrGetFQDNFromLegacyDN.cbMailboxServerDN
+rfr.RfrGetFQDNFromLegacyDN.ppszServerFQDN
+rfr.RfrGetFQDNFromLegacyDN.szMailboxServerDN
+rfr.RfrGetFQDNFromLegacyDN.ulFlags
+rfr.RfrGetNewDSA.ppszServer
+rfr.RfrGetNewDSA.ppszUnused
+rfr.RfrGetNewDSA.pUserDN
+rfr.RfrGetNewDSA.ulFlags

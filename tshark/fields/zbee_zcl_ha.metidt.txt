@@ -1,0 +1,3 @@
+zbee_zcl_ha.metidt.attr.data_quality.id
+zbee_zcl_ha.metidt.attr_id
+zbee_zcl_ha.metidt.attr.meter_type.id

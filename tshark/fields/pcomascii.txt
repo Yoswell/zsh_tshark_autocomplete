@@ -1,0 +1,10 @@
+pcomascii.address
+pcomascii.address_value
+pcomascii.checksum
+pcomascii.command
+pcomascii.command_code
+pcomascii.command.unsupported
+pcomascii.etx
+pcomascii.length
+pcomascii.stx
+pcomascii.unitid

@@ -1,0 +1,3 @@
+docsis_dsarsp.confcode
+docsis_dsarsp.confcode
+docsis_dsarsp.tranid

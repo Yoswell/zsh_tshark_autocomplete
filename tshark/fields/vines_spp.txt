@@ -1,0 +1,13 @@
+vines_spp.ack_num
+vines_spp.control
+vines_spp.control.abort_msg
+vines_spp.control.ack
+vines_spp.control.beg_msg
+vines_spp.control.end_msg
+vines_spp.dest_port
+vines_spp.local_id
+vines_spp.packet_type
+vines_spp.remote_id
+vines_spp.seq_num
+vines_spp.src_port
+vines_spp.window

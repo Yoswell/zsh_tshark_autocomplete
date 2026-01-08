@@ -1,0 +1,8 @@
+gprs_ns.bvci
+gprs_ns.cause
+gprs_ns.ielength
+gprs_ns.ietype
+gprs_ns.nsei
+gprs_ns.nsvci
+gprs_ns.pdutype
+gprs_ns.spare

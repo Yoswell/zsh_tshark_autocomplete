@@ -1,0 +1,12 @@
+rmi.endpoint_id.hostname
+rmi.endpoint_id.length
+rmi.endpoint_id.port
+rmi.inputstream.message
+rmi.magic
+rmi.outputstream.message
+rmi.protocol
+rmi.serialization_data
+rmi.ser.magic
+rmi.ser.version
+rmi.unique_identifier
+rmi.version

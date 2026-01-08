@@ -1,0 +1,10 @@
+ayiya.authmethod
+ayiya.epoch
+ayiya.hashmethod
+ayiya.identity
+ayiya.idlen
+ayiya.idtype
+ayiya.nextheader
+ayiya.opcode
+ayiya.siglen
+ayiya.signature

@@ -1,0 +1,5 @@
+lpd.client_code
+lpd.printer_option
+lpd.request
+lpd.response
+lpd.response_code

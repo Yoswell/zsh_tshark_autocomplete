@@ -1,0 +1,13 @@
+tscf.avtp_timestamp
+tscf.data_len
+tscf.expert.data_len
+tscf.expert.no_space_for_header
+tscf.flags.mr
+tscf.flags.rsv1
+tscf.flags.tu
+tscf.flags.tv
+tscf.rsv2
+tscf.rsv3
+tscf.rsv4
+tscf.seqnum
+tscf.stream_id

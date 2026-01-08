@@ -1,0 +1,6 @@
+rtmac.header.flags
+rtmac.header.flags.res
+rtmac.header.flags.tunnel
+rtmac.header.res
+rtmac.header.type
+rtmac.header.ver

@@ -1,0 +1,13 @@
+sll.etype
+sll.gretype
+sll.halen
+sll.hatype
+sll.ifindex
+sll.ltype
+sll.pkttype
+sll.reserved
+sll.src.eth
+sll.src.ipv4
+sll.src.other
+sll.trailer
+sll.unused

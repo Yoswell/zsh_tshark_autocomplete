@@ -1,0 +1,12 @@
+btbredr_fhs.class
+btbredr_fhs.clk
+btbredr_fhs.eir
+btbredr_fhs.lap
+btbredr_fhs.ltaddr
+btbredr_fhs.nap
+btbredr_fhs.pagescanmode
+btbredr_fhs.parity
+btbredr_fhs.reserved
+btbredr_fhs.sp
+btbredr_fhs.sr
+btbredr_fhs.uap

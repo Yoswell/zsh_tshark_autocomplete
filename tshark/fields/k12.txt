@@ -1,0 +1,7 @@
+k12.ds0.ts
+k12.input_type
+k12.port_id
+k12.port_name
+k12.stack_file
+k12.unmatched_info
+k12.unmatched_stk_file

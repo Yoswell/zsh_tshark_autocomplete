@@ -1,0 +1,17 @@
+m2tp.diagnostic_info
+m2tp.error_code
+m2tp.heartbeat_data
+m2tp.info_string
+m2tp.interface_identifier
+m2tp.master_slave
+m2tp.message_class
+m2tp.message_length
+m2tp.message_type
+m2tp.parameter_length
+m2tp.parameter_padding
+m2tp.parameter_tag
+m2tp.parameter_value
+m2tp.reason
+m2tp.reserved
+m2tp.user_identifier
+m2tp.version

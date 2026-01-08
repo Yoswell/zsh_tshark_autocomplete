@@ -1,0 +1,12 @@
+uts.ack
+uts.busy
+uts.data
+uts.did
+uts.function
+uts.msgwaiting
+uts.notbusy
+uts.replyrequest
+uts.retxrequest
+uts.retxrequst
+uts.rid
+uts.sid

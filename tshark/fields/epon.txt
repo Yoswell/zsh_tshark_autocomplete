@@ -1,0 +1,13 @@
+epon.checksum
+epon.checksum_bad.expert
+epon.checksum.status
+epon.dpoe.encrypted
+epon.dpoe.encrypted.data
+epon.dpoe.encrypted.expert
+epon.dpoe.expert
+epon.dpoe.keyid
+epon.dpoe.reserved
+epon.dpoe.sec
+epon.llid
+epon.mode
+epon.sld_bad.expert

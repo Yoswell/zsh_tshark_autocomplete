@@ -1,0 +1,17 @@
+rs_pgo.domain
+rs_pgo.error_status
+rs_pgo.flags
+rs_pgo.name_principalName
+rs_pgo.name_t_size
+rs_pgo.opnum
+rs_pgo.pname_principalName
+rs_pgo.pname_t_size
+rs_pgo.query
+rs_pgo.query_key
+rs_pgo.query_result
+rs_pgo.quota
+rs_pgo.timeval
+rs_pgo.unix_num
+rs_pgo.unix_num_key_t
+rs_pgo.uuid1
+rs_pgo.var1

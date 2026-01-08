@@ -1,0 +1,13 @@
+nbp.count
+nbp.enum
+nbp.info
+nbp.net
+nbp.node
+nbp.nodeid
+nbp.nodeid.length
+nbp.object
+nbp.op
+nbp.port
+nbp.tid
+nbp.type
+nbp.zone

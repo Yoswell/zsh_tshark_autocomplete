@@ -1,0 +1,13 @@
+fcgi.begin_request.flags
+fcgi.begin_request.keep_conn
+fcgi.begin_request.role
+fcgi.content.data
+fcgi.content.length
+fcgi.end_request.app_status
+fcgi.end_request.protocol_status
+fcgi.id
+fcgi.nv_name
+fcgi.padding.data
+fcgi.padding.length
+fcgi.type
+fcgi.version

@@ -1,0 +1,17 @@
+starteam.data
+starteam.id.client
+starteam.id.command
+starteam.id.commandtime
+starteam.id.commanduserid
+starteam.id.component
+starteam.id.connect
+starteam.id.level
+starteam.mdh.ctimestamp
+starteam.mdh.flags
+starteam.mdh.keyid
+starteam.mdh.reserved
+starteam.mdh.stag
+starteam.ph.dsize
+starteam.ph.flags
+starteam.ph.psize
+starteam.ph.signature

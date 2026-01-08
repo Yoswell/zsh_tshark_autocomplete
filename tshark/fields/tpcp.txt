@@ -1,0 +1,14 @@
+tpcp.caddr
+tpcp.cid
+tpcp.cport
+tpcp.flags
+tpcp.flags.redir
+tpcp.flags.tcp
+tpcp.flags.xoff
+tpcp.flags.xon
+tpcp.rasaddr
+tpcp.saddr
+tpcp.signature
+tpcp.type
+tpcp.vaddr
+tpcp.version

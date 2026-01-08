@@ -1,0 +1,11 @@
+zep.channel_id
+zep.device_id
+zep.length
+zep.lqi
+zep.lqi_mode
+zep.protocol_id
+zep.reserved_field
+zep.seqno
+zep.time
+zep.type
+zep.version

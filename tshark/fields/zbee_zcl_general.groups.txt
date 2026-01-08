@@ -1,0 +1,11 @@
+zbee_zcl_general.groups.attr.group_name_support
+zbee_zcl_general.groups.attr_id
+zbee_zcl_general.groups.attr_str_len
+zbee_zcl_general.groups.cmd_srv_rx.id
+zbee_zcl_general.groups.cmd.srv_tx.id
+zbee_zcl_general.groups.group_capacity
+zbee_zcl_general.groups.group_count
+zbee_zcl_general.groups.group_id
+zbee_zcl_general.groups.group_list
+zbee_zcl_general.groups.group_status
+zbee_zcl_general.groups.scene_list

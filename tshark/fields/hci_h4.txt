@@ -1,0 +1,2 @@
+hci_h4.direction
+hci_h4.type

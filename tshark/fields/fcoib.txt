@@ -1,0 +1,9 @@
+fcoib.crc
+fcoib.crc.bad
+fcoib.crc_bad
+fcoib.crc_good
+fcoib.crc.status
+fcoib.eof
+fcoib.sig
+fcoib.sof
+fcoib.ver

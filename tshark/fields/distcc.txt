@@ -1,0 +1,9 @@
+distcc.argc
+distcc.argv
+distcc.doti_source
+distcc.doto_object
+distcc.serr
+distcc.short_pdu
+distcc.sout
+distcc.status
+distcc.version

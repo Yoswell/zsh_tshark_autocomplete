@@ -1,0 +1,6 @@
+mate.duration
+mate.gop_key
+mate.number_of_pdus
+mate.released_time
+mate.started_at
+mate.undefined_attribute

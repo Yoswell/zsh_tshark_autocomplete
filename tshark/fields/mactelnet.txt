@@ -1,0 +1,17 @@
+mactelnet.client_type
+mactelnet.control
+mactelnet.control_encryptionkey
+mactelnet.control_height
+mactelnet.control_length
+mactelnet.control_packet
+mactelnet.control_password
+mactelnet.control_terminaltype
+mactelnet.control_username
+mactelnet.control_width
+mactelnet.data_type
+mactelnet.destination_mac
+mactelnet.protocol_version
+mactelnet.session_bytes
+mactelnet.session_id
+mactelnet.source_mac
+mactelnet.type

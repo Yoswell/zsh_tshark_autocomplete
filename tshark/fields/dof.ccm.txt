@@ -1,0 +1,9 @@
+dof.ccm.decode_failure
+dof.ccm.dsp_opt
+dof.ccm.encrypt.max
+dof.ccm.encrypt.min
+dof.ccm.mac.max
+dof.ccm.mac.min
+dof.ccm.opcode
+dof.ccm.strength
+dof.ccm.strength-count

@@ -1,0 +1,16 @@
+lwapp.apid
+lwapp.control
+lwapp.control.length
+lwapp.control.seqno
+lwapp.control.type
+lwapp.flags
+lwapp.flags.fragment
+lwapp.flags.fragmentType
+lwapp.flags.type
+lwapp.fragmentId
+lwapp.Length
+lwapp.rssi
+lwapp.slotId
+lwapp.snr
+lwapp.too_many_encap
+lwapp.version

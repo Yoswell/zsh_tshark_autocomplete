@@ -1,0 +1,13 @@
+cdt.algorithmID_OID
+cdt.algorithmID_ShortForm
+cdt.compressedContent
+cdt.compressedContentInfo
+cdt.compressedContentInfo_element
+cdt.CompressedData
+cdt.CompressedData_element
+cdt.compressionAlgorithm
+cdt.contentType
+cdt.contentType_OID
+cdt.contentType_ShortForm
+cdt.unable_compress_content
+cdt.unable_uncompress_content

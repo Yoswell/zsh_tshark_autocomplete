@@ -1,0 +1,8 @@
+dof.tep1.c
+dof.tep1.dsp_opt
+dof.tep1.k
+dof.tep1.opcode
+dof.tep1.operation
+dof.tep1.operation_type
+dof.tep1.reject.code
+dof.tep1.reject.data

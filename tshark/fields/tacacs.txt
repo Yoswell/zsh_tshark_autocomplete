@@ -1,0 +1,15 @@
+tacacs.destaddr
+tacacs.destport
+tacacs.line
+tacacs.nonce
+tacacs.passlen
+tacacs.password
+tacacs.reason
+tacacs.response
+tacacs.result1
+tacacs.result2
+tacacs.result3
+tacacs.type
+tacacs.userlen
+tacacs.username
+tacacs.version

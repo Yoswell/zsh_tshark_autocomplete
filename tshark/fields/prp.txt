@@ -1,0 +1,14 @@
+prp.supervision_frame.length
+prp.supervision_frame.length2
+prp.supervision_frame.prp_red_box_mac_address
+prp.supervision_frame.prp_source_mac_address_A
+prp.supervision_frame.prp_source_mac_address_B
+prp.supervision_frame.prp_vdan_mac_address
+prp.supervision_frame.type
+prp.supervision_frame.type2
+prp.supervision_frame.version
+prp.trailer.prp1_suffix
+prp.trailer.prp_lan
+prp.trailer.prp_sequence_nr
+prp.trailer.prp_size
+prp.trailer.version

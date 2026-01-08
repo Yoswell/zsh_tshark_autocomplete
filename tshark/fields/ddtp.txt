@@ -1,0 +1,9 @@
+ddtp.alive
+ddtp.encrypt
+ddtp.hostid
+ddtp.ipaddr
+ddtp.msgtype
+ddtp.msgtype.unknown
+ddtp.opcode
+ddtp.status
+ddtp.version

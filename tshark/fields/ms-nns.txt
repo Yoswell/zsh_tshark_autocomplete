@@ -1,0 +1,7 @@
+ms-nns.auth_payload_size
+ms-nns.known_encoding
+ms-nns.major_version
+ms-nns.message_id
+ms-nns.minor_version
+ms-nns.payload
+ms-nns.payload_size

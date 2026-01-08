@@ -1,0 +1,6 @@
+finger.nocrlf
+finger.query
+finger.response
+finger.response_in
+finger.response_time
+finger.response_to

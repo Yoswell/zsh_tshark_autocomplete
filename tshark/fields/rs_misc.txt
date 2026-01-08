@@ -1,0 +1,4 @@
+rs_misc.login_get_info_rqst_key_size
+rs_misc.login_get_info_rqst_key_t
+rs_misc.login_get_info_rqst_var
+rs_misc.opnum

@@ -1,0 +1,6 @@
+atldf.id
+atldf.info
+atldf.port
+atldf.ttl
+atldf.version
+atldf.vlan

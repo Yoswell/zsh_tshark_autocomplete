@@ -1,0 +1,8 @@
+iperf3.cookie
+iperf3.init_msg
+iperf3.outoforder
+iperf3.prejson
+iperf3.sec
+iperf3.sequence
+iperf3.state
+iperf3.usec

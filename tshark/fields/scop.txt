@@ -1,0 +1,6 @@
+scop.length
+scop.service
+scop.status
+scop.transport
+scop.type
+scop.version

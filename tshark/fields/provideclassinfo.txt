@@ -1,0 +1,2 @@
+provideclassinfo.itypeinfo
+provideclassinfo.opnum

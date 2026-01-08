@@ -1,0 +1,17 @@
+lnpdqp.bcd_digits
+lnpdqp.billingIndicators
+lnpdqp.calledPartyNumber
+lnpdqp.callingPartyANI
+lnpdqp.carrierID
+lnpdqp.ConnectionControlArg_element
+lnpdqp.digits
+lnpdqp.enc
+lnpdqp.ia5_digits
+lnpdqp.na
+lnpdqp.networkRoutingNumber
+lnpdqp.np
+lnpdqp.nr_digits
+lnpdqp.oli
+lnpdqp.originatingLATA
+lnpdqp.ProvideInstructionArg_element
+lnpdqp.type_of_digits

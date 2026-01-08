@@ -1,0 +1,12 @@
+bcp_ncp.ieee_802_tagged_frame
+bcp_ncp.lcp.bridge_no
+bcp_ncp.lcp.lan_seg_no
+bcp_ncp.lcp.mac_addre
+bcp_ncp.lcp.mac_addres
+bcp_ncp.lcp.mac_address
+bcp_ncp.lcp.mac_l
+bcp_ncp.lcp.mac_m
+bcp_ncp.lcp.opt.length
+bcp_ncp.lcp.opt.type
+bcp_ncp.lcp.stp_protocol
+bcp_ncp.lcp.tinygram_comp

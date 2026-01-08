@@ -1,0 +1,14 @@
+msrcp.ext
+msrcp.ext_len
+msrcp.ext_nxt_header
+msrcp.id
+msrcp.len
+msrcp.no_resp
+msrcp.nxt_header
+msrcp.nxt_res
+msrcp.reserved
+msrcp.response_in
+msrcp.response_to
+msrcp.seq
+msrcp.type
+msrcp.vers

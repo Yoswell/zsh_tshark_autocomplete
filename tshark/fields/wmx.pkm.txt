@@ -1,0 +1,3 @@
+wmx.pkm.msg_code
+wmx.pkm.msg_pkm_identifier
+wmx.pkm.unknown.type

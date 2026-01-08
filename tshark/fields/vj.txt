@@ -1,0 +1,15 @@
+vj.ack_delta
+vj.change_mask
+vj.change_mask_a
+vj.change_mask_c
+vj.change_mask_i
+vj.change_mask_p
+vj.change_mask_s
+vj.change_mask_u
+vj.change_mask_w
+vj.connection_number
+vj.ip_id_delta
+vj.seq_delta
+vj.tcp_cksum
+vj.urp
+vj.win_delta

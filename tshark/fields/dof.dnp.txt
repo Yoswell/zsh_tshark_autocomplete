@@ -1,0 +1,3 @@
+dof.dnp.v0.padding
+dof.dnp.v0.version
+dof.dnp.v1.flags_zero

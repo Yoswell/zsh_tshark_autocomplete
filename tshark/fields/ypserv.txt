@@ -1,0 +1,16 @@
+ypserv.domain
+ypserv.key
+ypserv.map
+ypserv.map_parms
+ypserv.more
+ypserv.ordernum
+ypserv.peer
+ypserv.port
+ypserv.procedure_v1
+ypserv.procedure_v2
+ypserv.prog
+ypserv.servesdomain
+ypserv.status
+ypserv.transid
+ypserv.value
+ypserv.xfrstat

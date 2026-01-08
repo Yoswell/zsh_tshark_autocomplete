@@ -1,0 +1,6 @@
+ndp.backplane
+ndp.chassis
+ndp.ipaddress
+ndp.numberoflinks
+ndp.segmentident
+ndp.state

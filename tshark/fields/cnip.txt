@@ -1,0 +1,12 @@
+cnip.exth
+cnip.len
+cnip.pf
+cnip.protocol
+cnip.sec
+cnip.seqno
+cnip.sessid
+cnip.tstamp
+cnip.type
+cnip.type.unknown
+cnip.vendorcode
+cnip.ver

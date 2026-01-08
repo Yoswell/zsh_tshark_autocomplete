@@ -1,0 +1,8 @@
+gmrp.attribute_event
+gmrp.attribute_length
+gmrp.attribute_type
+gmrp.attribute_value_group_membership
+gmrp.attribute_value_service_requirement
+gmrp.end_of_mark
+gmrp.protocol_id
+gmrp.protocol_id.not_gmrp

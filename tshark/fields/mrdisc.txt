@@ -1,0 +1,13 @@
+mrdisc.adv_int
+mrdisc.bad_checksum
+mrdisc.checksum
+mrdisc.checksum_bad
+mrdisc.checksum.status
+mrdisc.num_opts
+mrdisc.option
+mrdisc.option_data
+mrdisc.options
+mrdisc.opt_len
+mrdisc.query_int
+mrdisc.rob_var
+mrdisc.type

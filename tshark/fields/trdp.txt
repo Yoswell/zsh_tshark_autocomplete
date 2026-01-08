@@ -1,0 +1,17 @@
+trdp.comid
+trdp.dest_uri
+trdp.etb_topo
+trdp.fcs
+trdp.len
+trdp.msgtype
+trdp.oper_topo
+trdp.padding
+trdp.reply_comid
+trdp.reply_ipaddr
+trdp.reply_status
+trdp.reply_timeout
+trdp.res
+trdp.seq
+trdp.session_id
+trdp.source_uri
+trdp.ver

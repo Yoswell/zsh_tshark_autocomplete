@@ -1,0 +1,14 @@
+crf.base_frequency
+crf.data_len
+crf.expert.clock_reference_format_type
+crf.expert.crf_datalen
+crf.fsfield
+crf.mrfield
+crf.pull
+crf.seqnum
+crf.stream_id
+crf.timestamp
+crf.timestamp_data
+crf.timestamp_interval
+crf.tufield
+crf.type

@@ -1,0 +1,8 @@
+bpsec-cose.aad_scope
+bpsec-cose.aad_scope.blknum
+bpsec-cose.aad_scope.flags
+bpsec-cose.aad_scope.flags.btsd
+bpsec-cose.aad_scope.flags.metadata
+bpsec-cose.addl_protected_bstr
+bpsec-cose.addl_unprotected
+bpsec-cose.msg

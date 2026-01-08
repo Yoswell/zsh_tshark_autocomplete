@@ -1,0 +1,10 @@
+nbss.called_name
+nbss.calling_name
+nbss.continuation_data
+nbss.error_code
+nbss.flags
+nbss.flags.e
+nbss.length
+nbss.retarget_ip_address
+nbss.retarget_port
+nbss.type

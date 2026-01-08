@@ -1,0 +1,15 @@
+aim_ssi.fnac.allow_auth_flag
+aim_ssi.fnac.auth_unkn
+aim_ssi.fnac.bid
+aim_ssi.fnac.buddyname
+aim_ssi.fnac.buddyname_len
+aim_ssi.fnac.buddyname_len8
+aim_ssi.fnac.data
+aim_ssi.fnac.gid
+aim_ssi.fnac.last_change_time
+aim_ssi.fnac.numitems
+aim_ssi.fnac.reason
+aim_ssi.fnac.reason_len
+aim_ssi.fnac.tlvlen
+aim_ssi.fnac.type
+aim_ssi.fnac.version

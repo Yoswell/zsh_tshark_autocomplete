@@ -1,0 +1,7 @@
+zbee_zcl_general.identify.attr_id
+zbee_zcl_general.identify.attr.identify_time
+zbee_zcl_general.identify.cmd.srv_rx.id
+zbee_zcl_general.identify.cmd.srv_tx.id
+zbee_zcl_general.identify.effect_id
+zbee_zcl_general.identify.effect_variant
+zbee_zcl_general.identify.identify_timeout

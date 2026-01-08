@@ -1,0 +1,6 @@
+grpc.body_decompression_failed
+grpc.body_malformed
+grpc.compressed_flag
+grpc.frame_type
+grpc.message_data
+grpc.message_length

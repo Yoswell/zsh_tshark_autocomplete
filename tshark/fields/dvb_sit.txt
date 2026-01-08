@@ -1,0 +1,12 @@
+dvb_sit.cur_next_ind
+dvb_sit.last_sect_num
+dvb_sit.reserved
+dvb_sit.reserved_future_use1
+dvb_sit.reserved_future_use2
+dvb_sit.sect_num
+dvb_sit.svc.id
+dvb_sit.svc.reserved_future_use3
+dvb_sit.svc.running_status
+dvb_sit.svc.service_descriptors_length
+dvb_sit.transmission_info_descriptors_length
+dvb_sit.version

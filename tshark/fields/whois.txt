@@ -1,0 +1,7 @@
+whois.answer
+whois.answer_in
+whois.answer_to
+whois.encoding
+whois.nocrlf
+whois.query
+whois.response_time

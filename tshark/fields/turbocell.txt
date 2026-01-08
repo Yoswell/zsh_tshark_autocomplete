@@ -1,0 +1,10 @@
+turbocell.counter
+turbocell.dst
+turbocell.ip
+turbocell.name
+turbocell.nwid
+turbocell.satmode
+turbocell.station
+turbocell.timestamp
+turbocell.type
+turbocell.unknown

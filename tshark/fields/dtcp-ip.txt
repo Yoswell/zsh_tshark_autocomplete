@@ -1,0 +1,15 @@
+dtcp-ip.ake_info
+dtcp-ip.ctrl.ake_id
+dtcp-ip.ctrl.ake_label
+dtcp-ip.ctrl.ake_procedure
+dtcp-ip.ctrl.ake_procedure.ex_full_auth
+dtcp-ip.ctrl.ake_procedure.full_auth
+dtcp-ip.ctrl.category
+dtcp-ip.ctrl.ctype_response
+dtcp-ip.ctrl.exchange_key
+dtcp-ip.ctrl.number
+dtcp-ip.ctrl.status
+dtcp-ip.ctrl.subfunction
+dtcp-ip.ctrl.subfunction_dependent
+dtcp-ip.length
+dtcp-ip.type

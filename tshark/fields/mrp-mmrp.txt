@@ -1,0 +1,14 @@
+mrp-mmrp.attribute_length
+mrp-mmrp.attribute_list
+mrp-mmrp.attribute_type
+mrp-mmrp.end_mark
+mrp-mmrp.first_value
+mrp-mmrp.leave_all_event
+mrp-mmrp.mac
+mrp-mmrp.message
+mrp-mmrp.number_of_values
+mrp-mmrp.protocol_version
+mrp-mmrp.service_requirement
+mrp-mmrp.three_packed_event
+mrp-mmrp.vector_attribute
+mrp-mmrp.vector_header

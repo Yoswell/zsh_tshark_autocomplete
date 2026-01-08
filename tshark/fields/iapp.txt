@@ -1,0 +1,16 @@
+iapp.auth.ipaddr
+iapp.auth.status
+iapp.auth.string
+iapp.auth.trailer
+iapp.auth.uint
+iapp.cap.forwarding
+iapp.cap.wep
+iapp.no_pdus
+iapp.pdu.bytes
+iapp.pdu.oui_ident
+iapp.pdu.phytype
+iapp.pdu.regdomain
+iapp.pdu.ssid
+iapp.pdu.uint
+iapp.type
+iapp.version

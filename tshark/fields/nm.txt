@@ -1,0 +1,7 @@
+nm.ctrl
+nm.ctrl.active_wakeup
+nm.ctrl.nm_coord_sleep
+nm.ctrl.pni
+nm.ctrl.repeat_msg_req
+nm.src
+nm.user_data

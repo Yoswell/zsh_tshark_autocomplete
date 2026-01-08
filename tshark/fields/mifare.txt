@@ -1,0 +1,7 @@
+mifare.block.addr
+mifare.cmd
+mifare.key.a
+mifare.key.b
+mifare.operand
+mifare.payload
+mifare.uid

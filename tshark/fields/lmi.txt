@@ -1,0 +1,11 @@
+lmi.cmd
+lmi.dlci_act
+lmi.dlci_hi
+lmi.dlci_low
+lmi.dlci_new
+lmi.ele_rcd_type
+lmi.inf_ele_len
+lmi.inf_ele_type
+lmi.msg_type
+lmi.recv_seq
+lmi.send_seq

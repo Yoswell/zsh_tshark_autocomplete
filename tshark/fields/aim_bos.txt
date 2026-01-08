@@ -1,0 +1,2 @@
+aim_bos.data
+aim_bos.userclass

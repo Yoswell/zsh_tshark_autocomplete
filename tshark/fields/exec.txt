@@ -1,0 +1,6 @@
+exec.client_server_data
+exec.command
+exec.password
+exec.server_client_data
+exec.stderr_port
+exec.username

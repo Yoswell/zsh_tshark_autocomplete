@@ -1,0 +1,6 @@
+pdu_transport.id
+pdu_transport.implicit_id
+pdu_transport.length
+pdu_transport.message_truncated
+pdu_transport.name
+pdu_transport.payload

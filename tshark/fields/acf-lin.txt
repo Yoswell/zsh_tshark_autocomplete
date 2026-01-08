@@ -1,0 +1,8 @@
+acf-lin.bus_id
+acf-lin.expert.header_cropped
+acf-lin.expert.incorrect_datalen
+acf-lin.flags.mtv
+acf-lin.flags.pad
+acf-lin.id
+acf-lin.message_timestamp
+acf-lin.padding

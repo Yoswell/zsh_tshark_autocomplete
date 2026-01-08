@@ -1,0 +1,4 @@
+fmtp.length
+fmtp.reserved
+fmtp.type
+fmtp.version

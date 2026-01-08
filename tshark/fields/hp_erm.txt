@@ -1,0 +1,8 @@
+hp_erm.cfi
+hp_erm.is_tagged
+hp_erm.priority
+hp_erm.unknown
+hp_erm.unknown1
+hp_erm.unknown2
+hp_erm.unknown3
+hp_erm.vlan

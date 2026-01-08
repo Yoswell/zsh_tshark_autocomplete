@@ -1,0 +1,13 @@
+mrp-mvrp.attribute_length
+mrp-mvrp.attribute_list
+mrp-mvrp.attribute_type
+mrp-mvrp.end_mark
+mrp-mvrp.first_value
+mrp-mvrp.leave_all_event
+mrp-mvrp.message
+mrp-mvrp.number_of_values
+mrp-mvrp.protocol_version
+mrp-mvrp.three_packed_event
+mrp-mvrp.vector_attribute
+mrp-mvrp.vector_header
+mrp-mvrp.vid

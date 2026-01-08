@@ -1,0 +1,13 @@
+quake3.connectionless
+quake3.connectionless.command
+quake3.connectionless.marker
+quake3.connectionless.text
+quake3.direction
+quake3.game
+quake3.game.qport
+quake3.game.rel1
+quake3.game.rel2
+quake3.game.seq1
+quake3.game.seq2
+quake3.server.addr
+quake3.server.port

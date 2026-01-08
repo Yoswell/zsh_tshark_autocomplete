@@ -1,0 +1,4 @@
+wmx.dsx_rvd.confirmation_code
+wmx.dsx_rvd.confirmation_code
+wmx.dsx_rvd.transaction_id
+wmx.dsx_rvd.transaction_id

@@ -1,0 +1,6 @@
+cl3.badheaderlen
+cl3.headerlen
+cl3.payload
+cl3.subprotocol
+cl3.unsup_ver
+cl3.version

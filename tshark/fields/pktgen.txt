@@ -1,0 +1,5 @@
+pktgen.magic
+pktgen.seqnum
+pktgen.timestamp
+pktgen.tvsec
+pktgen.tvusec

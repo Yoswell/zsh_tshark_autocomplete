@@ -1,0 +1,7 @@
+pppmuxcp.def_prot_id
+pppmuxcp.flags
+pppmuxcp.flags.field_length
+pppmuxcp.flags.pid
+pppmuxcp.opt.length
+pppmuxcp.opt.type
+pppmuxcp.sub_frame_length

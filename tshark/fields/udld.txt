@@ -1,0 +1,12 @@
+udld.checksum
+udld.data
+udld.device_id
+udld.flags
+udld.flags.rsy
+udld.flags.rt
+udld.opcode
+udld.sent_through_interface
+udld.tlv.len
+udld.tlv.len.invalid
+udld.tlv.type
+udld.version

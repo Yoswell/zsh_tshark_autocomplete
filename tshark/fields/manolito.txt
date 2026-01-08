@@ -1,0 +1,8 @@
+manolito.checksum
+manolito.dest
+manolito.integer
+manolito.options
+manolito.seqno
+manolito.src
+manolito.string
+manolito.type.unknown

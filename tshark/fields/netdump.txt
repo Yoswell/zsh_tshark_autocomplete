@@ -1,0 +1,9 @@
+netdump.code
+netdump.command
+netdump.from
+netdump.info
+netdump.magic
+netdump.payload
+netdump.seq_nr
+netdump.to
+netdump.version

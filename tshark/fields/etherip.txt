@@ -1,0 +1,4 @@
+etherip.reserved
+etherip.reserved.not0
+etherip.ver
+etherip.ver.not3

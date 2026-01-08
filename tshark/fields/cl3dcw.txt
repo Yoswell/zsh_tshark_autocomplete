@@ -1,0 +1,11 @@
+cl3dcw.datamacaddrcount
+cl3dcw.datassidcount
+cl3dcw.dcbond
+cl3dcw.dccount
+cl3dcw.dcmacaddr
+cl3dcw.dcssid
+cl3dcw.no_data_channels
+cl3dcw.pcmacaddr
+cl3dcw.ssid_too_big
+cl3dcw.type
+cl3dcw.unknown_type

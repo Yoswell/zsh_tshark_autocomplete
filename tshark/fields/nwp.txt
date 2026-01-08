@@ -1,0 +1,13 @@
+nwp.ann_haddr
+nwp.ann_hid
+nwp.ann_hids
+nwp.bad_type
+nwp.haddr_len
+nwp.hid_count
+nwp.neigh
+nwp.neigh_haddr
+nwp.neigh_hid
+nwp.neigh_list
+nwp.neigh_num
+nwp.type
+nwp.version

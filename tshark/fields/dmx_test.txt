@@ -1,0 +1,6 @@
+dmx_test.data
+dmx_test.data
+dmx_test.data_bad
+dmx_test.data_bad
+dmx_test.data_good
+dmx_test.data_good

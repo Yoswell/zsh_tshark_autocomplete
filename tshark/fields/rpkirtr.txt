@@ -1,0 +1,3 @@
+rpkirtr.aspa.wrong_version
+rpkirtr.bad_length
+rpkirtr.router_key.wrong_version

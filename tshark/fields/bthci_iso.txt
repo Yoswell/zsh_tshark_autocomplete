@@ -1,0 +1,11 @@
+bthci_iso.chandle
+bthci_iso.connect_in
+bthci_iso.continuation_to
+bthci_iso.data
+bthci_iso.data_length
+bthci_iso.disconnect_in
+bthci_iso.length.bad
+bthci_iso.pb_flag
+bthci_iso.reassembled_in
+bthci_iso.reserved
+bthci_iso.ts_flag

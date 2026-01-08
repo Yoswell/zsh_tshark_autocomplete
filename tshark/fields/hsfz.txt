@@ -1,0 +1,9 @@
+hsfz.address
+hsfz.ctrlword
+hsfz.data
+hsfz.identification_string
+hsfz.length
+hsfz.sourceaddr
+hsfz.targetaddr
+hsfz.tester_address_expected
+hsfz.tester_address_received

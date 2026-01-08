@@ -1,0 +1,16 @@
+irlmp.dst
+irlmp.dst.c
+irlmp.dst.lsap
+irlmp.mode
+irlmp.opcode
+irlmp.reason
+irlmp.rsvd
+irlmp.src
+irlmp.src.lsap
+irlmp.src.r
+irlmp.status
+irlmp.xid.charset
+irlmp.xid.hints
+irlmp.xid.name
+irlmp.xid.name.no_ascii
+irlmp.xid.name.no_encoding

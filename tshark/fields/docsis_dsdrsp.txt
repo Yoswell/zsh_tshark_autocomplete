@@ -1,0 +1,5 @@
+docsis_dsdrsp.confcode
+docsis_dsdrsp.confcode
+docsis_dsdrsp.rsvd
+docsis_dsdrsp.rsvd
+docsis_dsdrsp.tranid

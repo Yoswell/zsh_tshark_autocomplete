@@ -1,0 +1,6 @@
+isdn_sup.1
+isdn_sup.error
+isdn_sup.operation
+isdn_sup.unsupported.arg_type
+isdn_sup.unsupported.error_type
+isdn_sup.unsupported.result_type

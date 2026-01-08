@@ -1,0 +1,8 @@
+blip.checksum
+blip.decompress_buffer_error
+blip.frameflags
+blip.messagebody
+blip.messagenum
+blip.numackbytes
+blip.props
+blip.propslength

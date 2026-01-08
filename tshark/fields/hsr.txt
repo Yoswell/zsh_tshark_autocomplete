@@ -1,0 +1,7 @@
+hsr.hsr_sequence_nr
+hsr.laneid
+hsr.lsdu_size
+hsr.netid
+hsr.path
+hsr.sequence_nr
+hsr.type

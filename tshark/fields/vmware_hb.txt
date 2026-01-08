@@ -1,0 +1,12 @@
+vmware_hb.build_number
+vmware_hb.bundle_version
+vmware_hb.change_gen
+vmware_hb.heartbeat_counter
+vmware_hb.host_key
+vmware_hb.host_key.length
+vmware_hb.ip4_address
+vmware_hb.ip4_address.length
+vmware_hb.magic
+vmware_hb.server_id
+vmware_hb.spec_gen
+vmware_hb.verification_signature

@@ -1,0 +1,8 @@
+wmx.pmc_req.confirmation
+wmx.pmc_req.confirmation
+wmx.pmc_req.power_control_mode
+wmx.pmc_req.power_control_mode
+wmx.pmc_req.reserved
+wmx.pmc_req.reserved
+wmx.pmc_req.ul_tx_power_level
+wmx.pmc_req.ul_tx_power_level

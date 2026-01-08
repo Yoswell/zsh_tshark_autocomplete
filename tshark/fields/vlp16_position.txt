@@ -1,0 +1,9 @@
+vlp16_position.gps_timestamp
+vlp16_position.position.accelx
+vlp16_position.position.accely
+vlp16_position.position.gyro
+vlp16_position.position.temp
+vlp16_position.sentence
+vlp16_position.unused
+vlp16_position.zero_data
+vlp16_position.zero_data.not_zero

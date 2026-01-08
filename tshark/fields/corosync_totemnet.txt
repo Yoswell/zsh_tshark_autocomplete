@@ -1,0 +1,4 @@
+corosync_totemnet.security_crypto_key
+corosync_totemnet.security_crypto_type
+corosync_totemnet.security_header_hash_digest
+corosync_totemnet.security_header_salt

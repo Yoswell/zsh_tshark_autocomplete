@@ -1,0 +1,6 @@
+aim_icq.chunk_size
+aim_icq.offline_msgs.dropped_flag
+aim_icq.owner_uid
+aim_icq.request_seq_number
+aim_icq.request_type
+aim_icq.subtype

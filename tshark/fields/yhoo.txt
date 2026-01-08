@@ -1,0 +1,10 @@
+yhoo.connection_id
+yhoo.content
+yhoo.len
+yhoo.magic_id
+yhoo.msgtype
+yhoo.nick1
+yhoo.nick2
+yhoo.service
+yhoo.unknown1
+yhoo.version

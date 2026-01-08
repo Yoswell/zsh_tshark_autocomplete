@@ -1,0 +1,9 @@
+bt3ds.association_notification
+bt3ds.battery_level
+bt3ds.expert.battery_level.reserved
+bt3ds.expert.message_opcode.reserved
+bt3ds.expert.reserved
+bt3ds.expert.unexpected_data
+bt3ds.message_opcode
+bt3ds.reserved
+bt3ds.user_request_for_battery_level_display

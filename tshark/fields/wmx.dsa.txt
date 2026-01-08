@@ -1,0 +1,4 @@
+wmx.dsa.confirmation_code
+wmx.dsa.confirmation_code
+wmx.dsa.transaction_id
+wmx.dsa.transaction_id

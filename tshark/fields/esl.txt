@@ -1,0 +1,4 @@
+esl.alignerror
+esl.crcerror
+esl.port
+esl.timestamp

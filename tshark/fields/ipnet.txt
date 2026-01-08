@@ -1,0 +1,8 @@
+ipnet.family
+ipnet.grifindex
+ipnet.htype
+ipnet.ifindex
+ipnet.pktlen
+ipnet.version
+ipnet.zdst
+ipnet.zsrc

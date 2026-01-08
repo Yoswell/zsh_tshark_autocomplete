@@ -1,0 +1,10 @@
+vlan.cfi
+vlan.dei
+vlan.etype
+vlan.id
+vlan.id_name
+vlan.len
+vlan.len.past_end
+vlan.priority
+vlan.too_many_tags
+vlan.trailer

@@ -1,0 +1,9 @@
+remunk.flags
+remunk.iids
+remunk.int_refs
+remunk.opnum
+remunk.private_refs
+remunk.public_refs
+remunk.qiresult
+remunk.refs
+remunk.reminterfaceref

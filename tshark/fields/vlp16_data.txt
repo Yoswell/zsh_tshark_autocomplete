@@ -1,0 +1,7 @@
+vlp16_data.block_id
+vlp16_data.factory_field1
+vlp16_data.factory_field2
+vlp16_data.gps_timestamp
+vlp16_data.laser.distance
+vlp16_data.laser.intensity
+vlp16_data.rotational_position

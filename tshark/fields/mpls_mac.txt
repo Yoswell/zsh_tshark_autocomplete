@@ -1,0 +1,12 @@
+mpls_mac.flags
+mpls_mac.flags.a
+mpls_mac.flags.r
+mpls_mac.flags.reserved
+mpls_mac.reserved
+mpls_mac.tlv
+mpls_mac.tlv.length
+mpls_mac.tlv_length_total
+mpls_mac.tlv.res
+mpls_mac.tlv.sequence_number
+mpls_mac.tlv.type
+mpls_mac.tlv.value

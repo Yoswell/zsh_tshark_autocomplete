@@ -1,0 +1,5 @@
+loop.forwarding_address
+loop.function
+loop.receipt_number
+loop.relevant_function
+loop.skipcount

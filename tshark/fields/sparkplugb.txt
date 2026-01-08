@@ -1,0 +1,8 @@
+sparkplugb.deviceid
+sparkplugb.edgenodeid
+sparkplugb.groupid
+sparkplugb.messagetype
+sparkplugb.missing_edgenodeid
+sparkplugb.missing_groupid
+sparkplugb.missing_messagetype
+sparkplugb.namespace

@@ -1,0 +1,15 @@
+tdmop.cmask
+tdmop.delay
+tdmop.dstch
+tdmop.flags
+tdmop.flags.compressed
+tdmop.flags.lostrequest
+tdmop.flags.nodata
+tdmop.flags.remotenodata
+tdmop.payload
+tdmop.recvnumber
+tdmop.reserved
+tdmop.seqnum
+tdmop.srcch
+tdmop.srcdst
+tdmop.transferid

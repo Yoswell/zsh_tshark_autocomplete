@@ -1,0 +1,10 @@
+sscop.mr
+sscop.pad_length
+sscop.ps
+sscop.r
+sscop.s
+sscop.source
+sscop.sq
+sscop.stat.count
+sscop.stat.s
+sscop.type

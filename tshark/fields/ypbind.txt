@@ -1,0 +1,8 @@
+ypbind.addr
+ypbind.domain
+ypbind.error
+ypbind.port
+ypbind.procedure_v1
+ypbind.procedure_v2
+ypbind.resp_type
+ypbind.setdom.version

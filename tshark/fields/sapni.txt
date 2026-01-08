@@ -1,0 +1,5 @@
+sapni.length
+sapni.length.invalid
+sapni.payload
+sapni.ping
+sapni.pong

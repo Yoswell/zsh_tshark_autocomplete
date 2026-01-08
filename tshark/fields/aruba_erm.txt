@@ -1,0 +1,9 @@
+aruba_erm.airmagnet
+aruba_erm.channel
+aruba_erm.data_rate
+aruba_erm.data_rate_gen
+aruba_erm.decode
+aruba_erm.incl_len
+aruba_erm.orig_len
+aruba_erm.signal_strength
+aruba_erm.time

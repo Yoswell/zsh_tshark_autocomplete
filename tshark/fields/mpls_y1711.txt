@@ -1,0 +1,17 @@
+mpls_y1711.bip16
+mpls_y1711.defect_location
+mpls_y1711.defect_type
+mpls_y1711.exp_bits_not_0
+mpls_y1711.frequency
+mpls_y1711.function_type
+mpls_y1711.lsp_id
+mpls_y1711.lsr_id
+mpls_y1711.minimum_payload
+mpls_y1711.no_OAM_alert_label
+mpls_y1711.padding_not_ff
+mpls_y1711.padding_not_zero
+mpls_y1711.reserved_not_zero
+mpls_y1711.s_bit_not_1
+mpls_y1711.ttl_not_1
+mpls_y1711.ttsi_not_preset
+mpls_y1711.unknown_pdu

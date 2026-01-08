@@ -1,0 +1,7 @@
+ipv6.hopopts.len
+ipv6.hopopts.length
+ipv6.hopopts.len_oct
+ipv6.hopopts.not_first
+ipv6.hopopts.not_first
+ipv6.hopopts.nxt
+ipv6.hopopts.nxt

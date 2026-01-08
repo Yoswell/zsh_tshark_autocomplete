@@ -1,0 +1,11 @@
+j1939.can_id
+j1939.data
+j1939.data_page
+j1939.dst_addr
+j1939.ex_data_page
+j1939.group_extension
+j1939.pdu_format
+j1939.pdu_specific
+j1939.pgn
+j1939.priority
+j1939.src_addr

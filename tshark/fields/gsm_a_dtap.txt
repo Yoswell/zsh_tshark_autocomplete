@@ -1,0 +1,10 @@
+gsm_a_dtap.cause
+gsm_a_dtap.cause
+gsm_a_dtap.elem_id
+gsm_a_dtap.elem_id
+gsm_a_dtap.mbms_short_transmission_identity
+gsm_a_dtap.num_lb_entities
+gsm_a_dtap.radio_bearer
+gsm_a_dtap.timeslot_number
+gsm_a_dtap.ue_received_rlc_sdu_counter_value
+gsm_a_dtap.uplink_rlc_sdu_size

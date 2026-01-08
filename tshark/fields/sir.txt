@@ -1,0 +1,9 @@
+sir.bad_checksum
+sir.bof
+sir.ce
+sir.eof
+sir.fcs
+sir.fcs_bad
+sir.fcs.status
+sir.length
+sir.preamble

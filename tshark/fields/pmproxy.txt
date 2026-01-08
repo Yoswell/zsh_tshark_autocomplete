@@ -1,0 +1,4 @@
+pmproxy.client_version
+pmproxy.host
+pmproxy.port
+pmproxy.server_version

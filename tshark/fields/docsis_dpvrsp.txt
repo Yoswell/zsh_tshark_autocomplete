@@ -1,0 +1,9 @@
+docsis_dpvrsp.dschan
+docsis_dpvrsp.end
+docsis_dpvrsp.flags
+docsis_dpvrsp.n
+docsis_dpvrsp.start
+docsis_dpvrsp.tranid
+docsis_dpvrsp.ts_end
+docsis_dpvrsp.ts_start
+docsis_dpvrsp.us_sf

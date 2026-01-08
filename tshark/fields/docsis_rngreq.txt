@@ -1,0 +1,8 @@
+docsis_rngreq.downchid
+docsis_rngreq.pendcomp
+docsis_rngreq.pendcomp
+docsis_rngreq.sid
+docsis_rngreq.sid
+docsis_rngreq.sid_field_bit14
+docsis_rngreq.sid_field_bit15
+docsis_rngreq.sid_field_bit15_14

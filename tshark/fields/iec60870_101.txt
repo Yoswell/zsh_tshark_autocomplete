@@ -1,0 +1,16 @@
+iec60870_101.checksum
+iec60870_101.ctrl_dfc
+iec60870_101.ctrl_fcb
+iec60870_101.ctrl_fcv
+iec60870_101.ctrlfield
+iec60870_101.ctrl_func_pri_to_sec
+iec60870_101.ctrl_func_sec_to_pri
+iec60870_101.ctrl_prm
+iec60870_101.header
+iec60870_101.header.mismatch
+iec60870_101.length
+iec60870_101.length.mismatch
+iec60870_101.linkaddr
+iec60870_101.num_user_octets
+iec60870_101.stopchar
+iec60870_101.stopchar.invalid

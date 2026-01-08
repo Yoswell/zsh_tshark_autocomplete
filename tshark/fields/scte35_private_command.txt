@@ -1,0 +1,2 @@
+scte35_private_command.identifier
+scte35_private_command.private_byte

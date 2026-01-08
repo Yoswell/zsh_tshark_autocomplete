@@ -1,0 +1,7 @@
+bcp_bpdu.flags
+bcp_bpdu.flags.bcontrol
+bcp_bpdu.flags.fcs_present
+bcp_bpdu.flags.zeropad
+bcp_bpdu.mac_type
+bcp_bpdu.pad
+bcp_bpdu.pads

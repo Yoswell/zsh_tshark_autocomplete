@@ -1,0 +1,5 @@
+zbee_zcl_meas_sensing.relhummeas.attr_id
+zbee_zcl_meas_sensing.relhummeas.attr.tolerance
+zbee_zcl_meas_sensing.relhummeas.attr.value
+zbee_zcl_meas_sensing.relhummeas.attr.value.max
+zbee_zcl_meas_sensing.relhummeas.attr.value.min

@@ -1,0 +1,6 @@
+thread_diagnostic.tlv
+thread_diagnostic.tlv.general
+thread_diagnostic.tlv.len16
+thread_diagnostic.tlv.len8
+thread_diagnostic.tlv.type
+thread_diagnostic.tlv.unknown

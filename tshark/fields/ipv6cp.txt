@@ -1,0 +1,3 @@
+ipv6cp.interface_identifier
+ipv6cp.opt.length
+ipv6cp.opt.type

@@ -1,0 +1,7 @@
+dvb-s2_modeadapt.acmcmd
+dvb-s2_modeadapt.acmcmd.fecframe
+dvb-s2_modeadapt.acmcmd.modcod
+dvb-s2_modeadapt.acmcmd.pilots
+dvb-s2_modeadapt.cni
+dvb-s2_modeadapt.frameno
+dvb-s2_modeadapt.sync

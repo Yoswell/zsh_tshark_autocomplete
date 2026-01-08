@@ -1,0 +1,13 @@
+erspan-marker.granularity
+erspan-marker.header
+erspan-marker.prop_header
+erspan-marker.reserved
+erspan-marker.sequence_number
+erspan-marker.ssid
+erspan-marker.tail
+erspan-marker.timestamp
+erspan-marker.type
+erspan-marker.utc_offset
+erspan-marker.utc_sec
+erspan-marker.utc_usec
+erspan-marker.version

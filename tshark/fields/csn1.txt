@@ -1,0 +1,9 @@
+csn1.fixed_not_matched
+csn1.general_error
+csn1.more32bits
+csn1.more_bits_to_unpack
+csn1.not_implemented
+csn1.null_data
+csn1.script_error
+csn1.stream_not_supported
+csn1.union_index_invalid

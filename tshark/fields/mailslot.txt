@@ -1,0 +1,5 @@
+mailslot.class
+mailslot.name
+mailslot.opcode
+mailslot.priority
+mailslot.size

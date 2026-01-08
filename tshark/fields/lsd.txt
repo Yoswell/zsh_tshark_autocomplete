@@ -1,0 +1,6 @@
+lsd.cookie
+lsd.header
+lsd.host
+lsd.infohash
+lsd.malformed_field
+lsd.port

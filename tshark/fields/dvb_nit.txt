@@ -1,0 +1,14 @@
+dvb_nit.cur_next_ind
+dvb_nit.last_sect_num
+dvb_nit.network_desc_len
+dvb_nit.reserved1
+dvb_nit.reserved2
+dvb_nit.reserved3
+dvb_nit.sect_num
+dvb_nit.sid
+dvb_nit.ts.desc_len
+dvb_nit.ts.id
+dvb_nit.ts_loop_len
+dvb_nit.ts.original_network_id
+dvb_nit.ts.reserved
+dvb_nit.version

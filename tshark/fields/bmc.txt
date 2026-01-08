@@ -1,0 +1,15 @@
+bmc.broadcast_address
+bmc.cb_data
+bmc.cb_data41
+bmc.ctch_bs_index
+bmc.data_coding_scheme
+bmc.future_extension_bitmap
+bmc.length_of_cbs_schedule_period
+bmc.length_of_serial_number_list
+bmc.message_description_type
+bmc.message_id
+bmc.message_type
+bmc.new_message_bitmap
+bmc.offset_to_begin_ctch_bs_index
+bmc.offset_to_ctch_bs_index_of_first_transmission
+bmc.serial_number

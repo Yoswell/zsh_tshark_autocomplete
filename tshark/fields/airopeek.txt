@@ -1,0 +1,10 @@
+airopeek.channel
+airopeek.data_rate
+airopeek.signal_strength
+airopeek.timestamp
+airopeek.unknown1
+airopeek.unknown2
+airopeek.unknown3
+airopeek.unknown4
+airopeek.unknown5
+airopeek.unknown6

@@ -1,0 +1,8 @@
+trill.egress_nick
+trill.hop_cnt
+trill.ingress_nick
+trill.multi_dst
+trill.op_len
+trill.options
+trill.reserved
+trill.version

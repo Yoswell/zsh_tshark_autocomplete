@@ -1,0 +1,15 @@
+mcp.digest
+mcp.fabric_id
+mcp.node_id
+mcp.port_id
+mcp.send_time
+mcp.short_tlv
+mcp.strictmode
+mcp.tlv.length
+mcp.tlv.type
+mcp.trailing_bytes
+mcp.unexpected_tlv_length
+mcp.unknown
+mcp.vpc.domain
+mcp.vpc.id
+mcp.vpc.vtep

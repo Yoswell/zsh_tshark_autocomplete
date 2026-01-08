@@ -1,0 +1,14 @@
+pn532_hci.data_checksum
+pn532_hci.data_checksum.status
+pn532_hci.expert.invalid_data_checksum
+pn532_hci.expert.invalid_length_checksum
+pn532_hci.extended_length
+pn532_hci.ignored
+pn532_hci.length
+pn532_hci.length_checksum
+pn532_hci.length_checksum.status
+pn532_hci.packet_code
+pn532_hci.postamble
+pn532_hci.preamble
+pn532_hci.specific_application_level_error_code
+pn532_hci.start_code

@@ -1,0 +1,8 @@
+logcat_text.log
+logcat_text.malformed_time
+logcat_text.malformed_token
+logcat_text.pid
+logcat_text.priority
+logcat_text.tag
+logcat_text.tid
+logcat_text.timestamp

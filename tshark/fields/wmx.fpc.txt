@@ -1,0 +1,5 @@
+wmx.fpc.basic_cid
+wmx.fpc.invalid_tlv
+wmx.fpc.number_stations
+wmx.fpc.power_adjust
+wmx.fpc.power_measurement_frame

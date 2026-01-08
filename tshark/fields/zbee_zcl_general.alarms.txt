@@ -1,0 +1,7 @@
+zbee_zcl_general.alarms.alarm_code
+zbee_zcl_general.alarms.attr_id
+zbee_zcl_general.alarms.cluster_id
+zbee_zcl_general.alarms.cmd.srv_rx.id
+zbee_zcl_general.alarms.cmd.srv_tx.id
+zbee_zcl_general.alarms.status
+zbee_zcl_general.alarms.timestamp

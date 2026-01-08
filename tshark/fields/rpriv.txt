@@ -1,0 +1,8 @@
+rpriv.get_eptgt_rqst_authn_svc
+rpriv.get_eptgt_rqst_authz_svc
+rpriv.get_eptgt_rqst_key_size
+rpriv.get_eptgt_rqst_key_size2
+rpriv.get_eptgt_rqst_key_t
+rpriv.get_eptgt_rqst_key_t2
+rpriv.get_eptgt_rqst_var1
+rpriv.opnum

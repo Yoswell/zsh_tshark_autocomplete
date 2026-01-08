@@ -1,0 +1,12 @@
+idp.checksum
+idp.dst
+idp.dst.net
+idp.dst.node
+idp.dst.socket
+idp.hops
+idp.len
+idp.packet_type
+idp.src
+idp.src.net
+idp.src.node
+idp.src.socket

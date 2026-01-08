@@ -1,0 +1,16 @@
+pktap.cmdname
+pktap.dlt
+pktap.ecmdname
+pktap.epid
+pktap.flags
+pktap.hdrlen
+pktap.hdrlen_too_short
+pktap.ifname
+pktap.iftype
+pktap.ifunit
+pktap.llhdrlen
+pktap.lltrlrlen
+pktap.pfamily
+pktap.pid
+pktap.rectype
+pktap.svc_class

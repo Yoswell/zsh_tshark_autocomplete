@@ -1,0 +1,6 @@
+104apci.apdulen
+104apci.data
+104apci.rx
+104apci.tx
+104apci.type
+104apci.utype

@@ -1,0 +1,10 @@
+jdwp.command
+jdwp.commandset
+jdwp.data
+jdwp.errorcode
+jdwp.flags
+jdwp.flags.invalid
+jdwp.hlen.invalid
+jdwp.id
+jdwp.length
+jdwp.type

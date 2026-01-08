@@ -1,0 +1,11 @@
+c15.ch.callref
+c15.ch.dest_ni
+c15.ch.dest_ni_tn
+c15.ch.dest_tn
+c15.ch.msgtype
+c15.ch.realtime
+c15.ch.size
+c15.ch.srce_ni
+c15.ch.srce_ni_tn
+c15.ch.srce_tn
+c15.ch.version

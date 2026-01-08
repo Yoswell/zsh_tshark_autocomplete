@@ -1,0 +1,11 @@
+rbm.double
+rbm.int
+rbm.invalid
+rbm.length
+rbm.link
+rbm.regex.param
+rbm.string
+rbm.struct
+rbm.type
+rbm.version
+rbm.version.unsupported

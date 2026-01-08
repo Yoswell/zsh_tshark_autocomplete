@@ -1,0 +1,15 @@
+brdwlk.drop
+brdwlk.eof
+brdwlk.error
+brdwlk.error.crc
+brdwlk.error.ctrl
+brdwlk.error.ef
+brdwlk.error.ff
+brdwlk.error.jumbo
+brdwlk.error.nd
+brdwlk.error.plp
+brdwlk.error.tr
+brdwlk.pktcnt
+brdwlk.plen
+brdwlk.sof
+brdwlk.vsan

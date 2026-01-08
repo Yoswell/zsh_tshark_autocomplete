@@ -1,0 +1,6 @@
+oicq.command
+oicq.data
+oicq.flag
+oicq.qqid
+oicq.seq
+oicq.version

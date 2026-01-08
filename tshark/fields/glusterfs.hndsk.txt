@@ -1,0 +1,9 @@
+glusterfs.hndsk.dict
+glusterfs.hndsk.event_notify_op
+glusterfs.hndsk.flags
+glusterfs.hndsk.getspec
+glusterfs.hndsk.getspec.key
+glusterfs.hndsk.getvolumeinfo.op_errstr
+glusterfs.hndsk.lk_ver
+glusterfs.hndsk.proc
+glusterfs.hndsk.uid

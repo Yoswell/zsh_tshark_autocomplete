@@ -1,0 +1,10 @@
+etag.dei
+etag.ecid_base
+etag.ecid_ext
+etag.etype
+etag.group
+etag.iecid_base
+etag.iecid_ext
+etag.pcp
+etag.resv
+etag.trailer

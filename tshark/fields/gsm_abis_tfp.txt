@@ -1,0 +1,9 @@
+gsm_abis_tfp.amr.rate
+gsm_abis_tfp.atsr
+gsm_abis_tfp.delay_info
+gsm_abis_tfp.frame_type
+gsm_abis_tfp.marker
+gsm_abis_tfp.packing_scheme
+gsm_abis_tfp.seq_nr
+gsm_abis_tfp.silence_ind
+gsm_abis_tfp.slot_rate

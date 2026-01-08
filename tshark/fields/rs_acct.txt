@@ -1,0 +1,7 @@
+rs_acct.get_projlist_rqst_key_size
+rs_acct.get_projlist_rqst_key_t
+rs_acct.get_projlist_rqst_var1
+rs_acct.lookup_rqst_key_size
+rs_acct.lookup_rqst_key_t
+rs_acct.lookup_rqst_var
+rs_acct.opnum

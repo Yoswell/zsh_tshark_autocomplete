@@ -1,0 +1,3 @@
+osinlcp.opt.alignment
+osinlcp.opt.length
+osinlcp.opt.type

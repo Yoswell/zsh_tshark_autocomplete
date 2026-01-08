@@ -1,0 +1,10 @@
+rdpmt.action
+rdpmt.createrequest.cookie
+rdpmt.createrequest.requestid
+rdpmt.createrequest.reserved
+rdpmt.createresponse.hrresponse
+rdpmt.flags
+rdpmt.headerlen
+rdpmt.payloadlen
+rdpmt.subheaderlen
+rdpmt.subheadertype

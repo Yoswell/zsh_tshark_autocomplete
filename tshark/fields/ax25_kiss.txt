@@ -1,0 +1,10 @@
+ax25_kiss.cksum
+ax25_kiss.cmd
+ax25_kiss.data_ack
+ax25_kiss.fullduplex
+ax25_kiss.persistence
+ax25_kiss.port
+ax25_kiss.sethardware
+ax25_kiss.slottime
+ax25_kiss.txdelay
+ax25_kiss.txtail

@@ -1,0 +1,6 @@
+cgmp.count
+cgmp.gda
+cgmp.reserved
+cgmp.type
+cgmp.usa
+cgmp.version

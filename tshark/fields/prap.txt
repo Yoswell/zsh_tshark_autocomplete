@@ -1,0 +1,10 @@
+prap.connid
+prap.eof
+prap.function
+prap.pad
+prap.quantum
+prap.result
+prap.seq
+prap.socket
+prap.status
+prap.waittime

@@ -1,0 +1,8 @@
+zbee_zcl_meas_sensing.occsen.attr_id
+zbee_zcl_meas_sensing.occsen.attr.occ_sensor_type
+zbee_zcl_meas_sensing.occsen.attr.occupancy
+zbee_zcl_meas_sensing.occsen.attr.occupancy_occupied
+zbee_zcl_meas_sensing.occsen.sensor_type_bitmap
+zbee_zcl_meas_sensing.occsen.sensor_type_bitmap_physical_contact
+zbee_zcl_meas_sensing.occsen.sensor_type_bitmap_pir
+zbee_zcl_meas_sensing.occsen.sensor_type_bitmap_ultrasonic

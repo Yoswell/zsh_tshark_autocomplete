@@ -1,0 +1,13 @@
+djiuav.checksum
+djiuav.cmd04.bcdtime
+djiuav.cmd.unknown
+djiuav.flags
+djiuav.length
+djiuav.magic
+djiuav.pdutype
+djiuav.response_in
+djiuav.response_time
+djiuav.response_to
+djiuav.resp.unknown
+djiuav.seqno
+djiuav.unexpected

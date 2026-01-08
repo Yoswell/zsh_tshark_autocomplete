@@ -1,0 +1,6 @@
+wmx.cdma.ranging_code
+wmx.cdma.ranging_code
+wmx.cdma.ranging_subchannel_offset
+wmx.cdma.ranging_subchannel_offset
+wmx.cdma.ranging_symbol_offset
+wmx.cdma.ranging_symbol_offset

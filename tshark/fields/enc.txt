@@ -1,0 +1,8 @@
+enc.af
+enc.flags
+enc.flags.header_auth
+enc.flags.payload_auth
+enc.flags.payload_compress
+enc.flags.payload_enc
+enc.flags.reserved
+enc.spi

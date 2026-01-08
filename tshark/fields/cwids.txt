@@ -1,0 +1,9 @@
+cwids.caplen
+cwids.channel
+cwids.ieee80211_malformed
+cwids.reallen
+cwids.timestamp
+cwids.unknown1
+cwids.unknown2
+cwids.unknown3
+cwids.version

@@ -1,0 +1,7 @@
+slarp.address
+slarp.mysequence
+slarp.netmask
+slarp.ptype
+slarp.reliability
+slarp.reliability.invalid
+slarp.yoursequence

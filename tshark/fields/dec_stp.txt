@@ -1,0 +1,17 @@
+dec_stp.bridge.mac
+dec_stp.bridge.pri
+dec_stp.flags
+dec_stp.flags.short_timers
+dec_stp.flags.tc
+dec_stp.flags.tcack
+dec_stp.forward
+dec_stp.hello
+dec_stp.max_age
+dec_stp.msg_age
+dec_stp.port
+dec_stp.protocol
+dec_stp.root.cost
+dec_stp.root.mac
+dec_stp.root.pri
+dec_stp.type
+dec_stp.version

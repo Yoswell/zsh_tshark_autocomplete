@@ -1,0 +1,15 @@
+mpeg_pmt.cur_next_ind
+mpeg_pmt.last_sect_num
+mpeg_pmt.pcr_pid
+mpeg_pmt.pg_num
+mpeg_pmt.prog_info_len
+mpeg_pmt.reserved1
+mpeg_pmt.reserved2
+mpeg_pmt.reserved3
+mpeg_pmt.sect_num
+mpeg_pmt.stream.elementary_pid
+mpeg_pmt.stream.es_info_len
+mpeg_pmt.stream.reserved1
+mpeg_pmt.stream.reserved2
+mpeg_pmt.stream.type
+mpeg_pmt.version

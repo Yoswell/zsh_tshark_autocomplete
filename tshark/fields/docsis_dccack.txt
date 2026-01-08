@@ -1,0 +1,7 @@
+docsis_dccack.hmac_digest
+docsis_dccack.hmac_digest
+docsis_dccack.key_seq_num
+docsis_dccack.key_seq_num
+docsis_dccack.tlvlen
+docsis_dccack.tlvtype
+docsis_dccack.tran_id

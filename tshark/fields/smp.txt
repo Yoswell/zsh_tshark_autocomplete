@@ -1,0 +1,11 @@
+smp.data
+smp.flags
+smp.flags.ack
+smp.flags.data
+smp.flags.fin
+smp.flags.syn
+smp.length
+smp.seqnum
+smp.sid
+smp.smid
+smp.wndw

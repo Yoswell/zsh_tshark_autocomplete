@@ -1,0 +1,17 @@
+dc.cdata
+dc.contributor
+dc.coverage
+dc.creator
+dc.date
+dc.dc
+dc.description
+dc.format
+dc.identifier
+dc.language
+dc.publisher
+dc.relation
+dc.rights
+dc.source
+dc.subject
+dc.title
+dc.type

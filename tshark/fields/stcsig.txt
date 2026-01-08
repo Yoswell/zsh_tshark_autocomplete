@@ -1,0 +1,13 @@
+stcsig.complement
+stcsig.csp
+stcsig.iv
+stcsig.prbseq
+stcsig.rawdata
+stcsig.seqnum
+stcsig.seqnum.sm
+stcsig.streamid
+stcsig.streamindex
+stcsig.streamtype
+stcsig.timestamp
+stcsig.tslr
+stcsig.unknown

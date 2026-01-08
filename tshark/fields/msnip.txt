@@ -1,0 +1,13 @@
+msnip.bad_checksum
+msnip.checksum
+msnip.checksum_bad
+msnip.checksum.status
+msnip.count
+msnip.genid
+msnip.groups
+msnip.holdtime
+msnip.holdtime16
+msnip.maddr
+msnip.netmask
+msnip.rec_type
+msnip.type

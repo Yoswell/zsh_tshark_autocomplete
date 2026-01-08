@@ -1,0 +1,16 @@
+zbee_zcl_general.applctrl.attr_func.datatype
+zbee_zcl_general.applctrl.attr_func.id
+zbee_zcl_general.applctrl.attr_id
+zbee_zcl_general.applctrl.cmd.srv_rx.id
+zbee_zcl_general.applctrl.cmd.srv_tx.id
+zbee_zcl_general.applctrl.execcmd.id
+zbee_zcl_general.applctrl.ovrlwarning.id
+zbee_zcl_general.applctrl.remenflags
+zbee_zcl_general.applctrl.remote_enable_flags
+zbee_zcl_general.applctrl.status
+zbee_zcl_general.applctrl.status2
+zbee_zcl_general.applctrl.status2.array
+zbee_zcl_general.applctrl.time
+zbee_zcl_general.applctrl.time.encoding_type
+zbee_zcl_general.applctrl.time.hh
+zbee_zcl_general.applctrl.time.mm
