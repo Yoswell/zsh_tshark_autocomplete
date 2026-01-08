@@ -15,11 +15,9 @@ Specialized command-line productivity tool that brings Wireshark-level field awa
 
 ### What is TShark Advanced Zsh Autocomplete?
 
-TShark Advanced Zsh Autocomplete is a specialized Zsh plugin designed to dramatically improve the usability of TShark by providing deep, protocol-aware, and hierarchical autocompletion for display filters (`-Y`) and extracted fields (`-e`).
+TShark Advanced Zsh Autocomplete is a specialized Zsh plugin designed to dramatically improve the usability of TShark by providing deep, protocol-aware, and hierarchical autocompletion for display filters (`-Y`) and extracted fields (`-e`). Unlike traditional shell completions that only suggest flat protocol names or static options, this tool understands the internal structure of TShark fields and mirrors the same logical hierarchy used internally by Wireshark. 
 
-Unlike traditional shell completions that only suggest flat protocol names or static options, this tool understands the internal structure of TShark fields and mirrors the same logical hierarchy used internally by Wireshark. This allows users to progressively explore protocols and their fields directly from the terminal, without memorizing field names or constantly switching to Wireshark’s GUI.
-
-The goal of this project is to make complex packet filtering faster, safer, and more intuitive for analysts, CTF players, incident responders, and anyone who relies heavily on TShark in day-to-day workflows.
+This allows users to progressively explore protocols and their fields directly from the terminal, without memorizing field names or constantly switching to Wireshark’s GUI.
 
 * **Hierarchical Field Autocomplete**: Progressively completes fields level by level (`http.request.uri.path`)
 * **Protocol-Aware Suggestions**: Only valid protocol headings and fields are suggested
