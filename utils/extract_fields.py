@@ -3,7 +3,7 @@
 from pathlib import Path
 
 BASE_DIR = Path("tshark")
-HEADINGS_FILE = BASE_DIR / "headings.txt"
+HEADINGS_FILE = BASE_DIR / "../tshark/headings.txt"
 FIELDS_FILE = BASE_DIR / "fields.txt"
 OUTPUT_DIR = BASE_DIR / "fields"
 
