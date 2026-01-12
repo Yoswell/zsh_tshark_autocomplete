@@ -157,4 +157,4 @@ Both options share the same hierarchical resolution logic and field database.
 
 ### Author & License
 
-This project is licensed under the terms specified in the [LICENSE](LICENSE) file.
+This project is licensed under the terms specified in the [LICENSE](LICENSE) file, was develop by [VIshOk](https://github.com/Yoswell)
