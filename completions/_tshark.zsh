@@ -10,6 +10,13 @@ local PLUGIN_DIR="${0:h:h}"
 local FIELDS_BASE_DIR="$PLUGIN_DIR/tshark/fields"
 local HEADINGS_FILE="$PLUGIN_DIR/tshark/headings.txt"
 
+# Display filter operators
+local -a FILTER_OPERATORS=(
+  'and' 'or' '&&' '||' 'not'
+  'contains' 'matches' '=='
+  '!=' '<' '>' '<=' '>='
+)
+
 # Load headings
 _load_headings() {
   if [[ -f "$HEADINGS_FILE" ]]; then
@@ -27,6 +34,48 @@ _load_fields_for_heading() {
   [[ -f "$fields_file" ]] && cat "$fields_file"
 }
 
+# Parse the display filter to determine what to complete
+_tshark_y_parse_filter() {
+  local filter="$1"
+  local -A result
+
+  # Check if filter ends with an operator (after whitespace)
+  if [[ "$filter" =~ '[[:space:]]+(and|or|&&|\\|\\|not)[[:space:]]*$' ]]; then
+    result[state]='operator'
+    return
+  fi
+
+  # Check if filter contains an operator and get the last part
+  # This handles cases like "http and tcp" where we want to complete after "tcp"
+  local -a parts
+
+  # Split by operators (keep the operator as separate element)
+  parts=(${=filter//' and '/' '})
+  parts=(${parts//' or '/' '})
+  parts=(${parts//' && '/' '})
+  parts=(${parts//' || '/' '})
+  parts=(${parts//' not '/' '})
+  parts=(${parts//' contains '/' '})
+  parts=(${parts//' matches '/' '})
+  parts=(${parts//' == '/' '})
+  parts=(${parts//' != '/' '})
+  parts=(${parts//' < '/' '})
+  parts=(${parts//' > '/' '})
+  parts=(${parts//' <= '/' '})
+  parts=(${parts//' >= '/' '})
+
+  # Get the last non-empty part
+  local last_part=""
+  for ((i=${#parts[@]}; i>=1; i--)); do
+    if [[ -n "${parts[i]}" ]]; then
+      last_part="${parts[i]}"
+      break
+    fi
+  done
+
+  result[last_part]="$last_part"
+}
+
 # Completion for -Y (display filter)
 _tshark_y() {
   local current="${words[CURRENT]}"
@@ -37,7 +86,77 @@ _tshark_y() {
   current="${current#\"}"
   current="${current%\"}"
 
-  # No dot → show headings
+  # Check if we're at the start or after an operator
+  local prev_word="${words[CURRENT-1]}"
+
+  # Check if current word ends with an operator (user is typing operator)
+  local ends_with_op=0
+  for op in "${FILTER_OPERATORS[@]}"; do
+    if [[ "$current" == *"$op"* ]]; then
+      # User might be typing an operator
+      break
+    fi
+  done
+
+  # Check if previous word is an operator
+  local is_after_operator=0
+  for op in "${FILTER_OPERATORS[@]}"; do
+    if [[ "$prev_word" == "$op" ]]; then
+      is_after_operator=1
+      break
+    fi
+  done
+
+  # Also check if the word before previous is an operator (for cases like "http and ")
+  if [[ $is_after_operator -eq 0 && ${#words[@]} -gt 2 ]]; then
+    local prev_prev_word="${words[CURRENT-2]}"
+    for op in "${FILTER_OPERATORS[@]}"; do
+      if [[ "$prev_prev_word" == "$op" ]]; then
+        is_after_operator=1
+        break
+      fi
+    done
+  fi
+
+  # If we're after an operator or at the start, suggest operators first
+  if [[ -z "$current" && $is_after_operator -eq 0 ]]; then
+    # At the beginning, suggest protocols
+    _load_headings
+
+    local -a matches
+    for h in "${HEADINGS[@]}"; do
+      [[ -z "$current" || "$h" == "$current"* ]] && matches+=("$h")
+    done
+
+    (( ${#matches[@]} )) && _values 'TShark protocols' "${matches[@]}"
+    return
+  fi
+
+  # If we're after an operator, suggest protocols/fields
+  if [[ $is_after_operator -eq 1 || -z "$current" ]]; then
+    _load_headings
+
+    local -a matches
+    for h in "${HEADINGS[@]}"; do
+      [[ -z "$current" || "$h" == "$current"* ]] && matches+=("$h")
+    done
+
+    (( ${#matches[@]} )) && _values 'TShark protocols' "${matches[@]}"
+    return
+  fi
+
+  # User is typing an operator - suggest operators
+  local -a op_matches
+  for op in "${FILTER_OPERATORS[@]}"; do
+    [[ "$op" == "$current"* ]] && op_matches+=("$op")
+  done
+
+  if (( ${#op_matches[@]} )); then
+    _values 'Filter operator' "${op_matches[@]}"
+    return
+  fi
+
+  # No dot → show headings (but only if no operator was typed)
   if [[ "$current" != *.* ]]; then
     _load_headings
 
@@ -123,7 +242,10 @@ _tshark_e() {
     [[ -z "$current" || "$f" == "$current"* ]] && matches+=("$f")
   done
 
-  (( ${#matches[@]} )) && _values 'All TShark fields' "${matches[@]}"
+  # Use compadd with _describe for better behavior
+  if (( ${#matches[@]} )); then
+    _describe -t tshark-field 'TShark field' matches
+  fi
 }
 
 # Main tshark completion
@@ -145,3 +267,4 @@ _tshark() {
 
 # Register completion
 compdef _tshark tshark
+
